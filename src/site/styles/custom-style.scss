@@ -559,12 +559,6 @@ body {
 }
 
 
-// Note icon sizes
-.tree[data-icon="1"] img { height: 15px; }
-.tree[data-icon="2"] img { height: 25px; }
-.tree[data-icon="3"] img { height: 35px; }
-
-
 body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="stellar-nebula"]::before,
 body.filetree-note-icon .filename[data-note-icon="stellar-nebula"]::before,
 body.links-note-icon .internal-link[data-note-icon="stellar-nebula"]::before,
