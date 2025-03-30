@@ -1,27 +1,30 @@
 function getNoteIcon(note) {
   // Determine note type and icon based on metadata
   if (note.data.tags && note.data.tags.includes('reading')) {
-    return { icon: 'stone', height: 25 };
+    return { icon: '6', height: 25 };
   }
   if (note.data.tags && note.data.tags.includes('tool')) {
-    return { icon: 'chest', height: 25 };
+    return { icon: '8', height: 25 };
   }
   if (note.data.tags && note.data.tags.includes('index')) {
-    return { icon: 'signpost', height: 25 };
+    return { icon: '7', height: 25 };
   }
   if (note.data.tags && note.data.tags.includes('outdated')) {
-    return { icon: 'withered', height: 25 };
+    return { icon: '5', height: 25 };
   }
   
   // Default to tree icons based on content length
   const contentLength = note.template.frontMatter.content.length;
   if (contentLength < 500) {
-    return { icon: 'tree-1', height: 15 };
+    return { icon: '1', height: 15 };
   } else if (contentLength < 2000) {
-    return { icon: 'tree-2', height: 25 };
+    return { icon: '2', height: 25 };
+  } else if (contentLength < 5000) {
+    return { icon: '3', height: 35 };
   } else {
-    return { icon: 'tree-3', height: 35 };
+    return { icon: '4', height: 45 };
   }
+
 }
 
 function organizeNotesIntoRows(notes) {
@@ -57,13 +60,14 @@ function organizeNotesIntoRows(notes) {
 
 function getForestStats(notes) {
   const stats = {
-    'tree-1': 0,
-    'tree-2': 0,
-    'tree-3': 0,
-    'stone': 0,
-    'chest': 0,
-    'signpost': 0,
-    'withered': 0
+    '1': 0,
+    '2': 0,
+    '3': 0,
+    '4': 0,
+    '5': 0,
+    '6': 0,
+    '7': 0,
+    '8': 0
   };
   
   notes.forEach(note => {
@@ -74,13 +78,14 @@ function getForestStats(notes) {
   return Object.entries(stats).map(([icon, count]) => ({
     icon,
     count,
-    label: icon === 'tree-1' ? 'Seedlings' :
-           icon === 'tree-2' ? 'Saplings' :
-           icon === 'tree-3' ? 'Trees' :
-           icon === 'stone' ? 'Stones' :
-           icon === 'chest' ? 'Chests' :
-           icon === 'signpost' ? 'Signposts' :
-           'Withered'
+    label: icon === '1' ? 'Stellar Nebulas' :
+           icon === '2' ? 'Stars' :
+           icon === '3' ? 'Red Giants' :
+           icon === '4' ? 'Supernovae' :
+           icon === '5' ? 'Black Holes' :
+           icon === '6' ? 'Galaxies' :
+           icon === '7' ? 'Telescopes' :
+           'Satellites'
   }));
 }
 
