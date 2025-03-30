@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"Ad Hoc Musings","dg-note-icon":"![Maturity Level: signpost|14](https://adhocmusings.vercel.app/img/7.svg)","dg-pinned":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"updated-at":"2025-03-30T14:40:00","permalink":"/ad-hoc-musings/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"![Maturity Level: signpost|14](https://adhocmusings.vercel.app/img/7.svg)"}
+{"dg-home":true,"dg-publish":true,"title":"Ad Hoc Musings","dg-note-icon":"telescope","dg-pinned":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"updated-at":"2025-03-30T14:40:00","permalink":"/ad-hoc-musings/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
 ---
 
 
