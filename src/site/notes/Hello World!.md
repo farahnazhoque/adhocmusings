@@ -20,8 +20,8 @@ If you have any questions or opinions, please feel free to contact me at [fhoque
 ## Maturity Levels
 The maturity level for each note is represented by phases of a star and their icons of various growth.
 
-### Stellar Nebula
-Stellar Nebula (![Maturity Level: 1|14](https://adhocmusings.vercel.app/img/1.svg)) are thoughts barely started. They are primarily ideas, impromptu musings that I wrote down, and are meant to be expanded later.
+### Stellar Nebulas
+Stellar Nebulas (![Maturity Level: 1|14](https://adhocmusings.vercel.app/img/1.svg)) are thoughts barely started. They are primarily ideas, impromptu musings that I wrote down, and are meant to be expanded later.
 
 ### Stars
 Stars (![Maturity Level: 2|14](https://adhocmusings.vercel.app/img/2.svg))have a good amount of content. However, they still need to be fleshed out. Ideas are being solidified in this stage.
