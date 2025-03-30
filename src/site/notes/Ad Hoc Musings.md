@@ -1,10 +1,8 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/ad-hoc-musings/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-home":true,"dg-publish":true,"title":"Ad Hoc Musings","dg-note-icon":"7","dg-pinned":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"updated-at":"2025-03-30T14:40:00","permalink":"/ad-hoc-musings/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"7"}
 ---
 
 
-
----
 
 > [!quote-with-source] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.
