@@ -1,0 +1,29 @@
+{% if forestData %}
+<div id="forest-graph">
+  <div class="forest-body">
+    {% for row in forestData.rows %}
+    <div class="forest-row">
+      {% for note in row %}
+        {% if note.type === "plane" %}
+          <span class="tree plane">
+            <span></span>
+          </span>
+        {% else %}
+          <a class="tree" href="{{ note.url }}" title="{{ note.title }}">
+            <img src="/img/{{ note.icon }}.svg" alt="" style="width:auto;height:{{ note.height }}px">
+          </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+  <div class="forest-legends">
+    {% for stat in forestData.stats %}
+    <div class="stat">
+      <img src="/img/{{ stat.icon }}.svg" alt="{{ stat.label }}">
+      {{ stat.count }} {{ stat.label }}
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %} 

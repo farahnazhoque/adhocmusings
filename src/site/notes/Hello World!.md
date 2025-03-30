@@ -2,8 +2,6 @@
 {"dg-home":true,"dg-publish":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"permalink":"/hello-world/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-
-
 ---
 
 > [!quote-with-source] Socrates (from Plato's Apology)
@@ -16,6 +14,8 @@ This [digital garden](https://cagrimmett.com/notes/2020/11/08/what-are-digital-g
 Unsurprisingly, thoughts here are, like every thought, ever-changing.
 
 If you have any questions or opinions, please feel free to contact me at [fhoque1515@gmail.com](mailto:fhoque1515@gmail.com) or see the [[The Threshold#Discussion\|Discussion]] section for other options.
+
+{% include "components/forest.njk" %}
 
 ## Maturity Levels
 The maturity level for each note is represented by phases of a star and their icons of various growth.
