@@ -15,44 +15,43 @@ This [digital garden](https://cagrimmett.com/notes/2020/11/08/what-are-digital-g
 
 Unsurprisingly, thoughts here are, like every thought, ever-changing.
 
-If you have any questions or opinions, please feel free to contact me at [connect@utsob.me](mailto:connect@utsob.me) or see the [[The Threshold#Discussion\|Discussion]] section for other options.
+If you have any questions or opinions, please feel free to contact me at [fhoque1515@gmail.com](mailto:fhoque1515@gmail.com) or see the [[The Threshold#Discussion\|Discussion]] section for other options.
 
 ## Maturity Levels
-The maturity level for each note is represented by plant icons of various growth.
+The maturity level for each note is represented by phases of a star and their icons of various growth.
 
-### Seedling
-Seedlings (![Maturity Level: 1|14](https://hermitage.utsob.me/img/tree-1.svg)) are thoughts barely started. Maybe Jotted down in haste or simply showed only a brief amount of what I thought about it by far.
+### Stellar Nebula
+Stellar Nebula (![Maturity Level: 1|14](https://adhocmusings.vercel.app/img/1.svg)) are thoughts barely started. They are primarily ideas, impromptu musings that I wrote down, and are meant to be expanded later.
 
-### Sapling
-Saplings (![Maturity Level: 2|14](https://hermitage.utsob.me/img/tree-2.svg)) have a substantial amount of content, but much work to be done. Coherence and patterns are just emerging in it.
+### Stars
+Stars (![Maturity Level: 2|14](https://adhocmusings.vercel.app/img/2.svg))have a good amount of content. However, they still need to be fleshed out. Ideas are being solidified in this stage.
 
-### Tree
-Trees (![Maturity Level: 3|14](https://hermitage.utsob.me/img/tree-3.svg)) are grown-up coherent pieces of thought/essay/expression that should not change much except for some editorial enhancements.
+### Red Giants
+Red Giant (![Maturity Level: 3|14](https://adhocmusings.vercel.app/img/3.svg)) are grown-up coherent pieces of thought/essay/expression that should not change much except for some editorial enhancements.
 
-### Withered
-Withered (![Maturity Level: withered|14](https://hermitage.utsob.me/img/withered.svg)) are the notes expressing outdated views (totally or partially) but kept for the historicity of our thoughts. For partially outdated notes, warnings will be placed wherever appropriate.
+### Supernovas
+Supernovas (![Maturity Level: withered|14](https://adhocmusings.vercel.app/img/4.svg)) are the notes that are more filled with corrections, or comments collected from other sources or opinions regarding an idea I have discussed.
 
-### Stone
-Stones (![Maturity Level: stone|14](https://hermitage.utsob.me/img/stone.svg)) are notes exported/extracted from other mediums (e.g. Reading highlights and notes). Growth is irrelevant for these notes.
+### Black Holes
+Black Holes (![Maturity Level: withered|14](https://adhocmusings.vercel.app/img/5.svg)) are the notes expressing outdated views (totally or partially) but kept for the historicity of our thoughts. For partially outdated notes, warnings will be placed wherever appropriate.
+### Galaxies
+Galaxies (![Maturity Level: stone|14](https://adhocmusings.vercel.app/img/6.svg)) are notes scraped or pulled from other mediums (e.g. Reading highlights and notes). Growth is irrelevant for these notes.
 
-### Signpost
-Signposts (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpost.svg)) are notes that allow us to navigate easily (e.g. Collection of books or writings).
+### Telescope
+Telescopes (![Maturity Level: signpost|14](https://adhocmusings.vercel.app/img/7.svg)) are notes that allow us to navigate easily (e.g. Collection of books or writings).
 
-### Chest
-A Chest (![Maturity Level: chest|14](https://hermitage.utsob.me/img/chest.svg)) get changes in its content. However, they don't grow. Chests are how-to's and tools I have made.
-
-> [!Warning] 
-> Maturity Levels are subjective. It might only mean that I'm a very immature person.
+### Satellites
+A Satellite (![Maturity Level: chest|14](https://adhocmusings.vercel.app/img/8.svg)) get changes in its content. However, they don't grow. Chests are how-to's and tools I have made.
 
 
 ## Read Lately
-| Cover                                                                                                                            | Title                                                                                                     | Notes                                                                                                                                                                              | Tags                      |
-| -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Cover                                                                                                                            | Title                                                                                                  | Notes                                                                                                                                                                           | Tags                      |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348735224i/10864217.jpg) | [[Personal/Reading/Books/Read/On the Origin of Species by Charles Darwin\|On the Origin of Species]]   | Notes: [[Personal/Reading/Notes and Highlights/On the origin of species_ by means of natural selection\|On the origin of species: by means of natural selection]]               | #book #Evolution #biology |
 | ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/7zzZzQEACAAJ?fife=w600-h900&source=gbs_api)  | [[Personal/Reading/Books/Read/The Three-Body Problem by Liu Cixin\|The Three-Body Problem]]            | Notes: [[Personal/Reading/Notes and Highlights/The Three-Body Problem\|The Three-Body Problem]]                                                                                 | #book #science-fiction    |
 | ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api)  | [[Personal/Reading/Books/Read/General System Theory by Ludwig von Bertalanffy\|General System Theory]] | Notes: [[Personal/Reading/Notes and Highlights/General System Theory_  Foundations, Development, Applications\|General System Theory:  Foundations, Development, Applications]] | #book #Political #Science |
 | ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/vXEFEQAAQBAJ?fife=w600-h900&source=gbs_api)  | [[Personal/Reading/Books/Read/The Message by Ta-Nehisi Coates\|The Message]]                           | Notes: [[Personal/Reading/Notes and Highlights/The Message by Ta-Nehisi Coates\|The Message by Ta-Nehisi Coates]]                                                               | #book #Social #Science    |
-| ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api)  | [[Personal/Reading/Books/Read/V for Vendetta by Alan Moore\|V for Vendetta]]                           | Notes: \-                                                                                                                                                                          | #bestreads                |
+| ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api)  | [[Personal/Reading/Books/Read/V for Vendetta by Alan Moore\|V for Vendetta]]                           | Notes: \-                                                                                                                                                                       | #bestreads                |
 | ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385206185i/194740.jpg)   | [[Personal/Reading/Books/Read/The Setting Sun by Osamu Dazai\|The Setting Sun]]                        | Notes: [[Personal/Reading/Notes and Highlights/The Setting Sun\|The Setting Sun]]                                                                                               |                           |
 
 { .block-language-dataview}
