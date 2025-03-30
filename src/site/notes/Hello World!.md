@@ -2,7 +2,7 @@
 {"dg-home":true,"dg-publish":true,"permalink":"/hello-world/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
----
+`---
 {"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2024-11-04T08:14:15+06:00","permalink":"/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
@@ -102,4 +102,4 @@ I don't seek publicity. If you find anything praiseworthy (I doubt you will), te
     3. Avoid irrelevance.
 3. Be civil, please.
 
-[^1]: Here, I'm using the word hermitage as a loose translation of the word [Tapovan](https://en.wikipedia.org/wiki/Tapovan).
+[^1]: Here, I'm using the word hermitage as a loose translation of the word [Tapovan](https://en.wikipedia.org/wiki/Tapovan).`
