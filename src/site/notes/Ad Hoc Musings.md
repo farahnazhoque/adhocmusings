@@ -1,5 +1,5 @@
 ---
-{"title":"Ad Hoc Musings","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Farahnaz's Digital Garden","og:description":"Farahnaz's's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2024-11-04T08:14:15+06:00","permalink":"/the-threshold/","metatags":{"description":"Farahnaz's Digital Garden","og:description":"Farahnaz's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
+{"dg-home":true,"dg-publish":true,"permalink":"/ad-hoc-musings/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
