@@ -44,8 +44,8 @@ A Satellite (![Maturity Level: chest|14](https://adhocmusings.vercel.app/img/8.s
 
 ---
 ## 📚 Read Lately
-| File | Cover | Title | Notes | Tags |
-| ---- | ----- | ----- | ----- | ---- |
+| File | Cover | Title | Tags |
+| ---- | ----- | ----- | ---- |
 
 { .block-language-dataview}
 
