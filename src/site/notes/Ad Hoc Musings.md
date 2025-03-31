@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"Ad Hoc Musings","dg-note-icon":"telescope","dg-pinned":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"updated-at":"2025-03-30T14:40:00","permalink":"/ad-hoc-musings/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
+{"dg-home":true,"dg-publish":true,"title":"Ad Hoc Musings","dg-note-icon":"7","dg-pinned":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"updated-at":"2025-03-30T14:40:00","permalink":"/ad-hoc-musings/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"7"}
 ---
 
 
@@ -42,61 +42,56 @@ Telescopes (![Maturity Level: signpost|14](https://adhocmusings.vercel.app/img/7
 A Satellite (![Maturity Level: chest|14](https://adhocmusings.vercel.app/img/8.svg)) get changes in its content. However, they don't grow. Chests are how-to's and tools I have made.
 
 
-## Read Lately
-| Cover                                                                                                                            | Title                                                                                                  | Notes                                                                                                                                                                           | Tags                      |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348735224i/10864217.jpg) | [[Personal/Reading/Books/Read/On the Origin of Species by Charles Darwin\|On the Origin of Species]]   | Notes: [[Personal/Reading/Notes and Highlights/On the origin of species_ by means of natural selection\|On the origin of species: by means of natural selection]]               | #book #Evolution #biology |
-| ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/7zzZzQEACAAJ?fife=w600-h900&source=gbs_api)  | [[Personal/Reading/Books/Read/The Three-Body Problem by Liu Cixin\|The Three-Body Problem]]            | Notes: [[Personal/Reading/Notes and Highlights/The Three-Body Problem\|The Three-Body Problem]]                                                                                 | #book #science-fiction    |
-| ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/N6k2mILtPYIC?fife=w600-h900&source=gbs_api)  | [[Personal/Reading/Books/Read/General System Theory by Ludwig von Bertalanffy\|General System Theory]] | Notes: [[Personal/Reading/Notes and Highlights/General System Theory_  Foundations, Development, Applications\|General System Theory:  Foundations, Development, Applications]] | #book #Political #Science |
-| ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/vXEFEQAAQBAJ?fife=w600-h900&source=gbs_api)  | [[Personal/Reading/Books/Read/The Message by Ta-Nehisi Coates\|The Message]]                           | Notes: [[Personal/Reading/Notes and Highlights/The Message by Ta-Nehisi Coates\|The Message by Ta-Nehisi Coates]]                                                               | #book #Social #Science    |
-| ![coverimg\|100](https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api)  | [[Personal/Reading/Books/Read/V for Vendetta by Alan Moore\|V for Vendetta]]                           | Notes: \-                                                                                                                                                                       | #bestreads                |
-| ![coverimg\|100](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385206185i/194740.jpg)   | [[Personal/Reading/Books/Read/The Setting Sun by Osamu Dazai\|The Setting Sun]]                        | Notes: [[Personal/Reading/Notes and Highlights/The Setting Sun\|The Setting Sun]]                                                                                               |                           |
-
-{ .block-language-dataview}
-## On Top of My mind…
-| Cover                                                            | Title                                                                                                                                                        | Updated                                                              | Created                                                             | Tags                                        |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------- |
-| <img src='https://hermitage.utsob.me/img/chest-cover-card.jpg'/> | [[Personal/Writings/Technical/HowTos/Boox to Obsidian_ Rich Annotation Export from Boox Cloud\|Boox to Obsidian: Rich Annotation Export from Boox Cloud]] | <i icon-name=calendar-clock></i><small>Mar 27, 2025 12:47 PM</small> | <i icon-name=calendar-plus></i><small>Mar 27, 2025 12:13 PM</small> |                                             |
-| <img src='https://hermitage.utsob.me/img/chest-cover-card.jpg'/> | [[Personal/Writings/Technical/HowTos/Boox to Obsidian_ Highlights and Annotations\|Boox to Obsidian: Highlights and Annotations]]                         | <i icon-name=calendar-clock></i><small>Mar 02, 2025 12:46 PM</small> | <i icon-name=calendar-plus></i><small>Aug 01, 2023 01:46 PM</small> | #obsidian #boox #neoreader #how-to          |
-| <img src='https://hermitage.utsob.me/img/chest-cover-card.jpg'/> | [[Personal/Writings/Technical/HowTos/KOReader to Obsidian\|KOReader to Obsidian: Export Notes and Highlights]]                                            | <i icon-name=calendar-clock></i><small>Dec 13, 2024 12:41 AM</small> | <i icon-name=calendar-plus></i><small>Sep 10, 2023 02:38 PM</small> | #koreader #obsidian #how-to #notes-export   |
-| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>     | [[Personal/Writings/Technical/HowTos/How to Read Ebooks\|Reading E-Books for dummies অথবা কীভাবে ইবুক পড়তে হয়...]]                                      | <i icon-name=calendar-clock></i><small>Nov 03, 2024 08:30 PM</small> | <i icon-name=calendar-plus></i><small>Oct 17, 2023 02:41 PM</small> | #how-to #reading                            |
-| <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>     | [[Personal/Writings/Creative/Poems/নিস্তার\|নিস্তার]]                                                                                                     | <i icon-name=calendar-clock></i><small>Oct 30, 2024 08:57 PM</small> | <i icon-name=calendar-plus></i><small>Oct 27, 2024 11:15 PM</small> | #poetry #কবিতা                              |
-| <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>     | [[Personal/Writings/Creative/Poems/আশ্বিনের রাত\|আশ্বিনের রাত]]                                                                                           | <i icon-name=calendar-clock></i><small>Oct 29, 2024 12:14 AM</small> | <i icon-name=calendar-plus></i><small>Aug 13, 2020 08:04 PM</small> |                                             |
-| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>     | [[Personal/Musings/Art is Freedom_ African-Americans\|Art is Freedom: African-Americans]]                                                                 | <i icon-name=calendar-clock></i><small>Oct 01, 2024 12:42 AM</small> | <i icon-name=calendar-plus></i><small>Sep 07, 2024 01:11 AM</small> | #music #negroid #culture #african #american |
-| <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>     | [[Personal/Musings/Pascals Wager\|Pascal's Wager]]                                                                                                        | <i icon-name=calendar-clock></i><small>Sep 29, 2024 12:56 PM</small> | <i icon-name=calendar-plus></i><small>Sep 29, 2024 11:08 AM</small> | #religion #War                              |
-| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>     | [[Personal/Musings/AI gen Content and Marketing\|How AI-generated Contents May Affect Marketing?]]                                                        | <i icon-name=calendar-clock></i><small>Sep 24, 2024 09:21 AM</small> | <i icon-name=calendar-plus></i><small>Mar 24, 2023 11:03 AM</small> | #AI #Marketing                              |
-| <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>     | [[Personal/Musings/The Tower of Babel\|The Tower of Babel]]                                                                                               | <i icon-name=calendar-clock></i><small>Sep 16, 2024 12:24 AM</small> | <i icon-name=calendar-plus></i><small>Sep 05, 2024 10:14 AM</small> | #society #myth #etiology                    |
-| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>     | [[Personal/Musings/Annihilation of Self in religions\|Annihilation of Self in Religions]]                                                                 | <i icon-name=calendar-clock></i><small>Sep 15, 2024 09:37 AM</small> | <i icon-name=calendar-plus></i><small>Sep 03, 2024 01:56 PM</small> | #religion #spirituality                     |
-| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>     | [[Personal/Journal/The Supposed Last Year of My Life/On Career\|On Career]]                                                                               | <i icon-name=calendar-clock></i><small>Sep 03, 2024 11:51 PM</small> | <i icon-name=calendar-plus></i><small>Aug 22, 2022 06:25 PM</small> | #life #work #programming                    |
+---
+## 📚 Read Lately
+| File | Cover | Title | Notes | Tags |
+| ---- | ----- | ----- | ----- | ---- |
 
 { .block-language-dataview}
 
-## From the Forge
+
+---
+## 🧠 On Top of My Mind…
+| File | Cover | Title | Updated | Created | Tags |
+| ---- | ----- | ----- | ------- | ------- | ---- |
+
+{ .block-language-dataview}
+
+  
+
+---
+
+  
+
+## 🔧 From the Forge
 
 Being a programmer, I often tinker and build things primarily for personal use. Here are some you might find useful.
-| Cover                                                            | Title                                                                    | Description                                                | Links                                                                                                                                                                                                                        | Tags                     |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| <img src='https://hermitage.utsob.me/img/chest-cover-card.jpg'/> | [[Personal/Forge/Boox Text Note Converter\|Boox Text Note Converter]] | A converter for Boox text notes.                           | <div><a href="https://boox-text-note-converter.utsob.me/"><i icon-name="external-link"></i></a><a style="margin-left: 10px;" href="https://github.com/uroybd/boox-text-note-converter/"><i icon-name="github"></i></a></div> | #tool #boox #converter   |
-| <img src='https://hermitage.utsob.me/img/chest-cover-card.jpg'/> | [[Personal/Forge/CyberEnsō\|CyberEnsō]]                               | Ensō on screen.                                            | <div><a href="https://enso.utsob.me"><i icon-name="external-link"></i></a><a style="margin-left: 10px;" href="https://github.com/uroybd/cyberenso"><i icon-name="github"></i></a></div>                                      | #generative-art #tool    |
-| <img src='https://hermitage.utsob.me/img/chest-cover-card.jpg'/> | [[Personal/Forge/EpubPress on the Web\|EpubPress on the Web]]         | An webapp to create EPUB from webpages using EpubPress API | <div><a href="https://epubpress.utsob.me/"><i icon-name="external-link"></i></a><a style="margin-left: 10px;" href="https://github.com/uroybd/epubpress-web"><i icon-name="github"></i></a></div>                            | #tool #epub #book #ebook |
+
+| File | Cover | Title | Description | Links | Tags |
+| ---- | ----- | ----- | ----------- | ----- | ---- |
 
 { .block-language-dataview}
-## Discussion
-Digital gardens are not about marketing/expressing opinion/prophesize etc. It is about nurturing our thoughts publicly and collectively. To discuss with me, there are two ways.
 
-### Emails
+  
+
+---
+
+## 💬 Discussion
+Digital gardens are not about marketing or grandstanding. They are about nurturing thoughts publicly and collectively.
+
+### 📩 Emails  
 From any note's page, click the email button on the bottom right to start an email thread. This is private.
 
-### Comments
+### 💬 Comments  
 Every note has a comment section powered by Disqus. Feel free to use that if you don't mind public discussions.
 
-### Policy
-I don't seek publicity. If you find anything praiseworthy (I doubt you will), tell me privately. For commenting, these are the basic rules I believe not too much to abide by:
-1. Constructive Criticism.
-2. Adhere to the rules of arguments. To name a few:
-    1. No personal attack (it's a fallacy)
-    2. Other logical fallacies
-    3. Avoid irrelevance.
-3. Be civil, please.
+### 🧭 Policy  
+If you find anything praiseworthy (I doubt you will), tell me privately. For commenting, here are the only rules:
 
-[^1]: Here, I'm using the word hermitage as a loose translation of the word [Tapovan](https://en.wikipedia.org/wiki/Tapovan).`
+1. Constructive criticism only.
+
+2. Follow logic — no personal attacks, no fallacies.
+
+3. Be civil. Always.
+
+  
