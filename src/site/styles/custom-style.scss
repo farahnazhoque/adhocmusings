@@ -1,16 +1,71 @@
-body.theme-dark {
-  --text-accent: #006f8b;
-  --text-accent-hover: #0084a5;
-  --interactive-accent: #006f8b;
-  --h1-color: var(--interactive-accent);
+:root {
+  /* Main Backgrounds (Pastel) */
+  --bg1: #fff9e6;  /* Pale yellow for main page background */
+  --bg2: #ffe6f2;  /* Soft pink for secondary areas (e.g. headers) */
+  --bg3: #e6f2ff;  /* Light blue for accent backgrounds */
+
+  /* UI / Divider Colors */
+  --ui1: #e0dfe8;  /* Light gray/pastel border */
+  --ui2: #d0c9d9;
+  --ui3: #c8c1d0;
+
+  /* Text Colors */
+  --tx1: #333333;  /* Primary text (dark gray) for readability */
+  --tx2: #555555;
+  --tx3: #7a699c;  /* Optional accent text (subtle purple tone) */
+
+  /* Accent Colors */
+  --color-yellow: #fff9c4;  /* Pastel yellow */
+  --color-pink:   #f8bbd0;  /* Pastel pink */
+  --color-blue:   #bbdefb;  /* Pastel blue */
+  --color-purple: #d1c4e9;  /* Pastel purple */
 }
 
-body.theme-light {
-  --text-accent: #004d61;
-  --text-accent-hover: #006f8b;
-  --interactive-accent: #004d61;
-  --h1-color: var(--interactive-accent);
+/* Set the overall background and text colors */
+body {
+  background-color: var(--bg1);
+  color: var(--tx1);
+  font-family: var(--font-interface);
 }
+
+/* Header, titlebar, and workspace tabs */
+.header,
+.titlebar,
+.workspace-tabs {
+  background-color: var(--bg2);
+  color: var(--tx1);
+}
+
+/* Buttons, navigation items, and links */
+.button,
+.nav-item,
+.link {
+  color: var(--color-purple);
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+.button:hover,
+.nav-item:hover,
+.link:hover {
+  background-color: var(--bg3);
+  color: var(--tx1);
+}
+
+/* Example: Override status icon for “success” to use pastel blue */
+.sync-status-icon.mod-success,
+.icon-success {
+  color: var(--color-blue);
+}
+
+/* Example: Blockquotes with a pastel pink accent border */
+blockquote {
+  border-left: 3px solid var(--color-pink);
+  padding-left: 1rem;
+  color: var(--tx2);
+}
+
+/* Add additional overrides as needed for other elements… */
+
 
 body {
   --graph-main: var(--text-accent-hover);
