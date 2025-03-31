@@ -44,10 +44,10 @@ A Satellite (![Maturity Level: chest|14](https://adhocmusings.vercel.app/img/8.s
 
 ---
 ## 📚 Read Lately
-| File                                                                                  | Cover                                                                                         | Title                    | Tags                                                                                                                                      |
-| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Personal/Reading/Books/Read/Lapvona\|Lapvona]]                                   | ![coverimg\|100](https://m.media-amazon.com/images/I/81-i1L18p-L.jpg)                         | Lapvona                  | <ul><li>feminism</li><li>womanhood</li><li>tragedy</li><li>medieval</li><li>witchcraft</li><li>religious-trauma</li><li>fantasy</li></ul> |
-| [[Personal/Reading/Books/Read/The Silence of the Girls\|The Silence of the Girls]] | ![coverimg\|100](https://upload.wikimedia.org/wikipedia/en/8/8d/The_Silence_of_the_Girls.jpg) | The Silence of the Girls | <ul><li>greek-mythology</li><li>feminism</li><li>womanhood</li><li>tragedy</li></ul>                                                      |
+| Cover                                                                                         | Title                                                                                 | Tags                                                                                                                                      |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| ![coverimg\|100](https://m.media-amazon.com/images/I/81-i1L18p-L.jpg)                         | [[Personal/Reading/Books/Read/Lapvona\|Lapvona]]                                   | <ul><li>feminism</li><li>womanhood</li><li>tragedy</li><li>medieval</li><li>witchcraft</li><li>religious-trauma</li><li>fantasy</li></ul> |
+| ![coverimg\|100](https://upload.wikimedia.org/wikipedia/en/8/8d/The_Silence_of_the_Girls.jpg) | [[Personal/Reading/Books/Read/The Silence of the Girls\|The Silence of the Girls]] | <ul><li>greek-mythology</li><li>feminism</li><li>womanhood</li><li>tragedy</li></ul>                                                      |
 
 { .block-language-dataview}
 
