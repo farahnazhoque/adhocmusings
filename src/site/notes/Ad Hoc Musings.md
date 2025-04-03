@@ -52,9 +52,9 @@ A Satellite (![Maturity Level: chest|14](https://adhocmusings.vercel.app/img/8.s
 { .block-language-dataview}
 ---
 ## 🧠 On Top of My Mind…
-| Cover                                                                                     | Title                                                            | Updated                                   | Created                                            | Tags                                                                              |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Class Consciousness\|Class Consciousness]] | ![[lucide-calendar-clock\|lucide-calendar-clock]] April 02, 2025 | ![[lucide-calendar-plus\|lucide-calendar-plus]] 1:44 PM - April 02, 2025 | <ul><li>classism</li><li>wealth</li><li>wealth-division</li><li>opinion</li></ul> |
+| Cover                                                                                     | Title                                                            | Updated                                                    | Created                                                             | Tags                                                                              |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Class Consciousness\|Class Consciousness]] | <span class='lucide-calendar-clock'></span> April 02, 2025 | <span class='lucide-calendar-plus'></span> 1:44 PM - April 02, 2025 | <ul><li>classism</li><li>wealth</li><li>wealth-division</li><li>opinion</li></ul> |
 
 { .block-language-dataview}
 ---
