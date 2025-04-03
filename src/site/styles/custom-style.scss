@@ -1,3 +1,16 @@
+body.theme-dark {
+  --text-accent: #006f8b;
+  --text-accent-hover: #0084a5;
+  --interactive-accent: #006f8b;
+  --h1-color: var(--interactive-accent);
+}
+
+body.theme-light {
+  --text-accent: #004d61;
+  --text-accent-hover: #006f8b;
+  --interactive-accent: #004d61;
+  --h1-color: var(--interactive-accent);
+}
 
 body {
   --graph-main: var(--text-accent-hover);
@@ -545,64 +558,6 @@ body {
   justify-content: flex-end;
 }
 
-
-body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="stellar-nebula"]::before,
-body.filetree-note-icon .filename[data-note-icon="stellar-nebula"]::before,
-body.links-note-icon .internal-link[data-note-icon="stellar-nebula"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="stellar-nebula"]::before {
-  background-image: url(/img/1.svg);
-}
-
-body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="star"]::before,
-body.filetree-note-icon .filename[data-note-icon="star"]::before,
-body.links-note-icon .internal-link[data-note-icon="star"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="star"]::before {
-  background-image: url(/img/2.svg);
-}
-
-body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="red-giant"]::before,
-body.filetree-note-icon .filename[data-note-icon="red-giant"]::before,
-body.links-note-icon .internal-link[data-note-icon="red-giant"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="red-giant"]::before {
-  background-image: url(/img/3.svg);
-}
-
-
-body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="supernova"]::before,
-body.filetree-note-icon .filename[data-note-icon="supernova"]::before,
-body.links-note-icon .internal-link[data-note-icon="supernova"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="supernova"]::before {
-  background-image: url(/img/4.svg);
-}
-
-body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="black-hole"]::before,
-body.filetree-note-icon .filename[data-note-icon="black-hole"]::before,
-body.links-note-icon .internal-link[data-note-icon="black-hole"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="black-hole"]::before {
-  background-image: url(/img/5.svg);
-}
-
-body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="galaxy"]::before,
-body.filetree-note-icon .filename[data-note-icon="galaxy"]::before,
-body.links-note-icon .internal-link[data-note-icon="galaxy"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="galaxy"]::before {
-  background-image: url(/img/6.svg);
-}
-
-body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="telescope"]::before,
-body.filetree-note-icon .filename[data-note-icon="telescope"]::before,
-body.links-note-icon .internal-link[data-note-icon="telescope"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="telescope"]::before {
-  background-image: url(/img/7.svg);
-}
-
-body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="satellite"]::before,
-body.filetree-note-icon .filename[data-note-icon="satellite"]::before,
-body.links-note-icon .internal-link[data-note-icon="satellite"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="satellite"]::before {
-  background-image: url(/img/8.svg);
-}
-
 .align-icon {
   display: inline-flex;
   align-items: center;
@@ -685,4 +640,71 @@ body.backlinks-note-icon .backlink[data-note-icon="satellite"]::before {
 
   }
 }
+
+.callout[data-callout="quote-with-source"] .callout-title {
+  order: 2;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="stellar-nebula"]::before,
+body.filetree-note-icon .filename[data-note-icon="stellar-nebula"]::before,
+body.links-note-icon .internal-link[data-note-icon="stellar-nebula"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="stellar-nebula"]::before {
+  background-image: url(/img/1.svg);
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="star"]::before,
+body.filetree-note-icon .filename[data-note-icon="star"]::before,
+body.links-note-icon .internal-link[data-note-icon="star"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="star"]::before {
+  background-image: url(/img/2.svg);
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="red-giant"]::before,
+body.filetree-note-icon .filename[data-note-icon="red-giant"]::before,
+body.links-note-icon .internal-link[data-note-icon="red-giant"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="red-giant"]::before {
+  background-image: url(/img/3.svg);
+}
+
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="supernova"]::before,
+body.filetree-note-icon .filename[data-note-icon="supernova"]::before,
+body.links-note-icon .internal-link[data-note-icon="supernova"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="supernova"]::before {
+  background-image: url(/img/4.svg);
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="black-hole"]::before,
+body.filetree-note-icon .filename[data-note-icon="black-hole"]::before,
+body.links-note-icon .internal-link[data-note-icon="black-hole"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="black-hole"]::before {
+  background-image: url(/img/5.svg);
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="galaxy"]::before,
+body.filetree-note-icon .filename[data-note-icon="galaxy"]::before,
+body.links-note-icon .internal-link[data-note-icon="galaxy"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="galaxy"]::before {
+  background-image: url(/img/6.svg);
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="telescope"]::before,
+body.filetree-note-icon .filename[data-note-icon="telescope"]::before,
+body.links-note-icon .internal-link[data-note-icon="telescope"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="telescope"]::before {
+  background-image: url(/img/7.svg);
+}
+
+body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon="satellite"]::before,
+body.filetree-note-icon .filename[data-note-icon="satellite"]::before,
+body.links-note-icon .internal-link[data-note-icon="satellite"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="satellite"]::before {
+  background-image: url(/img/8.svg);
+}
+
+
 
