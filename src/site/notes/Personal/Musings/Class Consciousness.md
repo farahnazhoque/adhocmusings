@@ -1,5 +1,5 @@
 ---
-{"title":"Class Consciousness","dg-publish":true,"updated":"2025-04-02","created":"2025-04-02T13:44:35","tags":["classism","wealth","wealth-division","opinion"],"dg-note-icon":"stellar-nebula","dg-path":"Musings/Class Consciousness.md","permalink":"/musings/class-consciousness/","dgPassFrontmatter":true,"noteIcon":"stellar-nebula"}
+{"title":"Class Consciousness","dg-publish":true,"updated":"2025-04-02","created":"2025-04-02T13:44:35","tags":["classism","wealth","wealth-division","opinion"],"dg-note-icon":"stellar-nebula","dg-path":"Musings/Class Consciousness.md","permalink":"/musings/class-consciousness/","dgPassFrontmatter":true,"noteIcon":"stellar-nebula","cover":"https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg"}
 ---
 
 <img width="600" height="400" src="https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg">

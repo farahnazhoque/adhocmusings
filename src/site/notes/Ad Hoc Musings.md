@@ -50,21 +50,14 @@ A Satellite (![Maturity Level: chest|14](https://adhocmusings.vercel.app/img/8.s
 | ![coverimg\|100](https://upload.wikimedia.org/wikipedia/en/8/8d/The_Silence_of_the_Girls.jpg) | [[Personal/Reading/Books/Read/The Silence of the Girls\|The Silence of the Girls]] | <ul><li>greek-mythology</li><li>feminism</li><li>womanhood</li><li>tragedy</li></ul>                                                      |
 
 { .block-language-dataview}
-
-
 ---
 ## 🧠 On Top of My Mind…
-| File | Cover | Title | Updated | Created | Tags |
-| ---- | ----- | ----- | ------- | ------- | ---- |
+| Cover                                                                                     | Title                                                            | Updated                                   | Created                                            | Tags                                                                              |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Class Consciousness\|Class Consciousness]] | ![[lucide-calendar-clock\|lucide-calendar-clock]] April 02, 2025 | ![[lucide-calendar-plus\|lucide-calendar-plus]] 1:44 PM - April 02, 2025 | <ul><li>classism</li><li>wealth</li><li>wealth-division</li><li>opinion</li></ul> |
 
 { .block-language-dataview}
-
-  
-
 ---
-
-  
-
 ## 🔧 From the Forge
 
 Being a programmer, I often tinker and build things primarily for personal use. Here are some you might find useful.
@@ -73,11 +66,7 @@ Being a programmer, I often tinker and build things primarily for personal use. 
 | ---- | ----- | ----- | ----------- | ----- | ---- |
 
 { .block-language-dataview}
-
-  
-
 ---
-
 ## 💬 Discussion
 Digital gardens are not about marketing or grandstanding. They are about nurturing thoughts publicly and collectively.
 
