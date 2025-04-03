@@ -1,5 +1,5 @@
 ---
-{"title":"Pothole","mood":"moody","weather":"night","location":"Irivine, CA","dg-publish":true,"dg-note-icon":"black-hole","tags":["life","regrets"],"updated":"2023-08-14T00:29:00+06:00","created":"2023-08-13T23:39:16+06:00","dg-path":"Journal/Pothole.md","permalink":"/journal/pothole/","dgPassFrontmatter":true,"noteIcon":"black-hole"}
+{"title":"Pothole","mood":"moody","weather":"night","location":"Irivine, CA","dg-publish":true,"dg-note-icon":"black-hole","tags":["life","regrets"],"updated":"2025-04-03T00:57:12.362-07:00","created":"2025-03-30T14:46:08.794-07:00","dg-path":"Journal/Pothole.md","permalink":"/journal/pothole/","dgPassFrontmatter":true,"noteIcon":"black-hole"}
 ---
 
 

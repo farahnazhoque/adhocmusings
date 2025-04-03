@@ -1,7 +1,6 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"Ad Hoc Musings","dg-note-icon":"7","dg-pinned":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"updated-at":"2025-03-30T14:40:00","permalink":"/ad-hoc-musings/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"7"}
+{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-03T02:53:24.334-07:00","permalink":"/ad-hoc-musings/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
 ---
-
 
 
 > [!quote-with-source] Socrates (from Plato's Apology)
@@ -46,15 +45,15 @@ A Satellite (![Maturity Level: chest|14](https://adhocmusings.vercel.app/img/8.s
 ## 📚 Read Lately
 | Cover                                                                                         | Title                                                                                 | Tags                                                                                                                                      |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| ![coverimg\|100](https://m.media-amazon.com/images/I/81-i1L18p-L.jpg)                         | [[Personal/Reading/Books/Read/Lapvona\|Lapvona]]                                   | <ul><li>feminism</li><li>womanhood</li><li>tragedy</li><li>medieval</li><li>witchcraft</li><li>religious-trauma</li><li>fantasy</li></ul> |
 | ![coverimg\|100](https://upload.wikimedia.org/wikipedia/en/8/8d/The_Silence_of_the_Girls.jpg) | [[Personal/Reading/Books/Read/The Silence of the Girls\|The Silence of the Girls]] | <ul><li>greek-mythology</li><li>feminism</li><li>womanhood</li><li>tragedy</li></ul>                                                      |
+| ![coverimg\|100](https://m.media-amazon.com/images/I/81-i1L18p-L.jpg)                         | [[Personal/Reading/Books/Read/Lapvona\|Lapvona]]                                   | <ul><li>feminism</li><li>womanhood</li><li>tragedy</li><li>medieval</li><li>witchcraft</li><li>religious-trauma</li><li>fantasy</li></ul> |
 
 { .block-language-dataview}
 ---
 ## 🧠 On Top of My Mind…
-| Cover                                                                                     | Title                                                            | Updated                                                    | Created                                                             | Tags                                                                              |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Class Consciousness\|Class Consciousness]] | <span class='lucide-calendar-clock'></span> April 02, 2025 | <span class='lucide-calendar-plus'></span> 1:44 PM - April 02, 2025 | <ul><li>classism</li><li>wealth</li><li>wealth-division</li><li>opinion</li></ul> |
+| Cover                                                                                     | Title                                                            | Updated        | Created                  | Tags                                                                              |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------- | ------------------------ | --------------------------------------------------------------------------------- |
+| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Class Consciousness\|Class Consciousness]] | April 02, 2025 | 1:44 PM - April 02, 2025 | <ul><li>classism</li><li>wealth</li><li>wealth-division</li><li>opinion</li></ul> |
 
 { .block-language-dataview}
 ---
@@ -67,6 +66,7 @@ Being a programmer, I often tinker and build things primarily for personal use. 
 
 { .block-language-dataview}
 ---
+
 ## 💬 Discussion
 Digital gardens are not about marketing or grandstanding. They are about nurturing thoughts publicly and collectively.
 

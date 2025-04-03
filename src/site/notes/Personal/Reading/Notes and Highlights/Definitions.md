@@ -1,5 +1,5 @@
 ---
-{"title":"Definitions","aliases":["radicals","classism"],"created":"2025-04-03T01:00:17","updated":"2025-04-03","tags":["defintions"],"dg-publish":true,"dg-note-icon":"black-hole","dg-path":"Reading/Notes and Highlights/Definitions.md","permalink":"/reading/notes-and-highlights/definitions/","dgPassFrontmatter":true,"noteIcon":"black-hole"}
+{"title":"Definitions","aliases":["radicals","classism"],"created":"2025-04-03T00:57:35.784-07:00","updated":"2025-04-03T02:14:59.458-07:00","tags":["defintions"],"dg-publish":true,"dg-note-icon":"black-hole","dg-path":"Reading/Notes and Highlights/Definitions.md","permalink":"/reading/notes-and-highlights/definitions/","dgPassFrontmatter":true,"noteIcon":"black-hole"}
 ---
 
 # class·ism
