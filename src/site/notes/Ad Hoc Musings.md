@@ -1,5 +1,5 @@
 ---
-{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-03T02:53:24.334-07:00","permalink":"/ad-hoc-musings/","metatags":{"description":"Farahnaz's Digital Garden","og:description":"Farahnaz's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
+{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"black-hole","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-03T02:58:36.927-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"black-hole"}
 ---
 
 
@@ -30,15 +30,15 @@ Red Giant (![Maturity Level: 3|14](https://adhocmusings.vercel.app/img/3.svg)) a
 Supernovas (![Maturity Level: withered|14](https://adhocmusings.vercel.app/img/4.svg)) are the notes that are more filled with corrections, or comments collected from other sources or opinions regarding an idea I have discussed.
 
 ### Black Holes
-Black Holes (![Maturity Level: withered|14](https://adhocmusings.vercel.app/img/5.svg)) are the notes expressing outdated views (totally or partially) but kept for the historicity of our thoughts. For partially outdated notes, warnings will be placed wherever appropriate.
+Black Holes (![Maturity Level: black-hole|14](https://adhocmusings.vercel.app/img/5.svg)) are the notes expressing outdated views (totally or partially) but kept for the historicity of our thoughts. For partially outdated notes, warnings will be placed wherever appropriate.
 ### Galaxies
-Galaxies (![Maturity Level: stone|14](https://adhocmusings.vercel.app/img/6.svg)) are notes scraped or pulled from other mediums (e.g. Reading highlights and notes). Growth is irrelevant for these notes.
+Galaxies (![Maturity Level: galaxy|14](https://adhocmusings.vercel.app/img/6.svg)) are notes scraped or pulled from other mediums (e.g. Reading highlights and notes). Growth is irrelevant for these notes.
 
 ### Telescope
-Telescopes (![Maturity Level: signpost|14](https://adhocmusings.vercel.app/img/7.svg)) are notes that allow us to navigate easily (e.g. Collection of books or writings).
+Telescopes (![Maturity Level: telescope|14](https://adhocmusings.vercel.app/img/7.svg)) are notes that allow us to navigate easily (e.g. Collection of books or writings).
 
 ### Satellites
-A Satellite (![Maturity Level: chest|14](https://adhocmusings.vercel.app/img/8.svg)) get changes in its content. However, they don't grow. Chests are how-to's and tools I have made.
+A Satellite (![Maturity Level: satellite|14](https://adhocmusings.vercel.app/img/8.svg)) get changes in its content. However, they don't grow. Chests are how-to's and tools I have made.
 
 
 ---
