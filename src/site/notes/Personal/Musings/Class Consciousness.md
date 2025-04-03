@@ -5,14 +5,19 @@
 <img width="600" height="400" src="https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg">
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/definitions/#de7ea9" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/personal/reading/notes-and-highlights/definitions/#rad-i-cal" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-1. a person who [advocates](https://www.google.com/search?sca_esv=ba0413463e4e44e4&sxsrf=AHTn8zpdlZNTnT3ic5oFTQfzZ_sX9Kp6Tg:1743666796648&q=advocates&si=APYL9bsF-Mq-fXaAyJcIV7GbwI1qQEvpJ7YmgFaJgsPTyjhMUq575Q_AGkFzh_yeGTKa6ROjjj6Ro95rhwYW0596iWx_CV6CZGvwmcOMumgeZVzgCeA2vCA%3D&expnd=1&sa=X&ved=2ahUKEwjRj5WAsbuMAxUkke4BHXfFE3sQyecJegUIOxCtAQ) thorough or complete political or social reform; a member of a political party or part of a party [pursuing](https://www.google.com/search?sca_esv=ba0413463e4e44e4&sxsrf=AHTn8zpdlZNTnT3ic5oFTQfzZ_sX9Kp6Tg:1743666796648&q=pursuing&si=APYL9bto9KfN6HH0KMpfhyCmyq0b54wzz1upsiWxiTXDQzGiCKBnr8mh-3LaSgjAy-DIdq6_EfsLZ7M4kwGbxM6YJGcRoIULgbOsplFYR7u5Ei-pBwmm704%3D&expnd=1&sa=X&ved=2ahUKEwjRj5WAsbuMAxUkke4BHXfFE3sQyecJegUIOxCuAQ) such aims. 
+## rad·i·cal
+/ˈradək(ə)l/
+
+_noun_
+
+1. a person who [advocates](https://www.google.com/search?sca_esv=ba0413463e4e44e4&sxsrf=AHTn8zpdlZNTnT3ic5oFTQfzZ_sX9Kp6Tg:1743666796648&q=advocates&si=APYL9bsF-Mq-fXaAyJcIV7GbwI1qQEvpJ7YmgFaJgsPTyjhMUq575Q_AGkFzh_yeGTKa6ROjjj6Ro95rhwYW0596iWx_CV6CZGvwmcOMumgeZVzgCeA2vCA%3D&expnd=1&sa=X&ved=2ahUKEwjRj5WAsbuMAxUkke4BHXfFE3sQyecJegUIOxCtAQ) thorough or complete political or social reform; a member of a political party or part of a party [pursuing](https://www.google.com/search?sca_esv=ba0413463e4e44e4&sxsrf=AHTn8zpdlZNTnT3ic5oFTQfzZ_sX9Kp6Tg:1743666796648&q=pursuing&si=APYL9bto9KfN6HH0KMpfhyCmyq0b54wzz1upsiWxiTXDQzGiCKBnr8mh-3LaSgjAy-DIdq6_EfsLZ7M4kwGbxM6YJGcRoIULgbOsplFYR7u5Ei-pBwmm704%3D&expnd=1&sa=X&ved=2ahUKEwjRj5WAsbuMAxUkke4BHXfFE3sQyecJegUIOxCuAQ) such aims.  { #de7ea9}
 
 </div></div>
-`
+
 
 By the definition above, I am what is considered a radical. I admit this was not always the case; I do not believe a person is born a radical. I do, however, believe that it is a natural occurrence for intelligent species to deduce right from wrong, especially when it comes to morals and ethics. Sure, sometimes it can be grey, but not on issues such as human rights and lives. Those are plain black and white.
 
