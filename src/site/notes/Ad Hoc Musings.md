@@ -1,5 +1,5 @@
 ---
-{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-04T12:48:44.579-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
+{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-04T13:40:16.311-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
 ---
 
 
@@ -142,8 +142,8 @@ A Satellite (![Maturity Level: satellite|14](https://adhocmusings.vercel.app/img
 ## 📚 Read Lately
 | Cover                                                                                         | Title                                                                                 | Tags                                                                                                                                      |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| ![coverimg\|100](https://upload.wikimedia.org/wikipedia/en/8/8d/The_Silence_of_the_Girls.jpg) | [[Personal/Reading/Books/Read/The Silence of the Girls\|The Silence of the Girls]] | <ul><li>greek-mythology</li><li>feminism</li><li>womanhood</li><li>tragedy</li></ul>                                                      |
 | ![coverimg\|100](https://m.media-amazon.com/images/I/81-i1L18p-L.jpg)                         | [[Personal/Reading/Books/Read/Lapvona\|Lapvona]]                                   | <ul><li>feminism</li><li>womanhood</li><li>tragedy</li><li>medieval</li><li>witchcraft</li><li>religious-trauma</li><li>fantasy</li></ul> |
+| ![coverimg\|100](https://upload.wikimedia.org/wikipedia/en/8/8d/The_Silence_of_the_Girls.jpg) | [[Personal/Reading/Books/Read/The Silence of the Girls\|The Silence of the Girls]] | <ul><li>greek-mythology</li><li>feminism</li><li>womanhood</li><li>tragedy</li></ul>                                                      |
 
 { .block-language-dataview}
 ---
@@ -169,18 +169,6 @@ Digital gardens are not about marketing or grandstanding. They are about nurturi
 
 ### 📩 Emails  
 From any note's page, click the email button on the bottom right to start an email thread. This is private.
-
-### 💬 Comments  
-Every note has a comment section powered by Disqus. Feel free to use that if you don't mind public discussions.
-
-### 🧭 Policy  
-If you find anything praiseworthy (I doubt you will), tell me privately. For commenting, here are the only rules:
-
-1. Constructive criticism only.
-
-2. Follow logic — no personal attacks, no fallacies.
-
-3. Be civil. Always.
 
   
 <aside id="floating-control">
