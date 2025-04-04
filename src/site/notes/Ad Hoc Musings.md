@@ -1,5 +1,5 @@
 ---
-{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-04T15:57:02.751-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
+{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-04T15:57:48.177-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
 ---
 
 
@@ -105,7 +105,7 @@
 <div class="stat"><img src="/img/2.svg" alt="Star">0 Stars</div>
 <div class="stat"><img src="/img/3.svg" alt="Red Giant">0 Red Giants</div>
 <div class="stat"><img src="/img/4.svg" alt="Supernova">0 Supernova</div>
-<div class="stat"><img src="/img/5.svg" alt="Black Hole">0 Black Holes</div>
+<div class="stat"><img src="/img/5.svg" alt="Black Hole">1 Black Hole</div>
 <div class="stat"><img src="/img/6.svg" alt="Galaxy">4 Galaxies</div>
 <div class="stat"><img src="/img/7.svg" alt="Telescope">1 Telescope</div>
 <div class="stat"><img src="/img/8.svg" alt="Satellite">1 Satellite</div>
