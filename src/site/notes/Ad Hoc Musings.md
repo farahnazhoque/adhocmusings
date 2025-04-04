@@ -1,5 +1,5 @@
 ---
-{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-04T13:40:16.311-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
+{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-04T15:08:23.987-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
 ---
 
 
@@ -24,6 +24,12 @@
 <a class="stellar-nebula" href="/reading/books/read/the-silence-of-the-girls-by-pat-barker" title="The Silence of the Girls by Pat Barker">
 <img src="/img/1.svg" alt="" style="width:auto;height:25px">
 </a>
+<a class="galaxy" href="/reading/academic-journals/extended-spider-cognitionr" title="Extended Spider Cognition">
+<img src="/img/1.svg" alt="" style="width:auto;height:25px">
+</a>
+<a class="galaxy" href="/reading/articles/the-thoughts-of-a-spiderweb/" title="The Thoughts of a Spiderweb">
+<img src="/img/1.svg" alt="" style="width:auto;height:25px">
+</a>
 </div>
 
 <div class="forest-row">
@@ -45,6 +51,9 @@
 </div>
 
 <div class="forest-row">
+<a class="stellar-nebula" href="/rabbit-holes/extended-cognition-of-spiders/" title="Extended Cognition of Spiders">
+<img src="/img/1.svg" alt="" style="width:auto;height:25px">
+</a>
 </div>
 
 <div class="forest-row">
@@ -89,14 +98,14 @@
 
 </div>
 <div class="forest-legends">
-<div class="stat"><img src="/img/1.svg" alt="Sapling">3 Stellar Nebulae</div>
-<div class="stat"><img src="/img/2.svg" alt="Stone">0 Stars</div>
-<div class="stat"><img src="/img/3.svg" alt="Seedling">0 Red Giants</div>
-<div class="stat"><img src="/img/4.svg" alt="Tree">0 Supernova</div>
-<div class="stat"><img src="/img/5.svg" alt="Chest">0 Black Holes</div>
-<div class="stat"><img src="/img/6.svg" alt="Signpost">2 Galaxy</div>
-<div class="stat"><img src="/img/7.svg" alt="Withered">1 Telescope</div>
-<div class="stat"><img src="/img/8.svg" alt="Withered">1 Satellite</div>
+<div class="stat"><img src="/img/1.svg" alt="Stellar Nebula">4 Stellar Nebulae</div>
+<div class="stat"><img src="/img/2.svg" alt="Star">0 Stars</div>
+<div class="stat"><img src="/img/3.svg" alt="Red Giant">0 Red Giants</div>
+<div class="stat"><img src="/img/4.svg" alt="Supernova">0 Supernova</div>
+<div class="stat"><img src="/img/5.svg" alt="Black Hole">0 Black Holes</div>
+<div class="stat"><img src="/img/6.svg" alt="Galaxy">4 Galaxies</div>
+<div class="stat"><img src="/img/7.svg" alt="Telescope">1 Telescope</div>
+<div class="stat"><img src="/img/8.svg" alt="Satellite">1 Satellite</div>
 </div>
 </div>
 
