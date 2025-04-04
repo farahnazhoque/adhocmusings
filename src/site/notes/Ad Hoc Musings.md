@@ -1,5 +1,5 @@
 ---
-{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-04T12:21:27.878-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
+{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-04T12:48:44.579-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
 ---
 
 
@@ -109,8 +109,7 @@ This [digital garden](https://cagrimmett.com/notes/2020/11/08/what-are-digital-g
 
 Unsurprisingly, thoughts here are, like every thought, ever-changing.
 
-If you have any questions or opinions, please feel free to contact me at [fhoque1515@gmail.com](mailto:fhoque1515@gmail.com) or see the [[The Threshold#Discussion\|Discussion]] section for other options.
-
+If you have any questions or opinions, please feel free to contact me at [fhoque1515@gmail.com](mailto:fhoque1515@gmail.com) 
 ## Maturity Levels
 The maturity level for each note is represented by phases of a star and their icons of various growth.
 

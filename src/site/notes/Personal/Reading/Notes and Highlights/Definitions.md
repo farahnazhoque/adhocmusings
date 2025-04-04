@@ -1,5 +1,5 @@
 ---
-{"title":"Definitions","aliases":["radicals","classism"],"created":"2025-04-03T00:57:35.784-07:00","updated":"2025-04-04T12:16:25.980-07:00","tags":["defintions"],"dg-publish":true,"dg-note-icon":"galaxy","dg-path":"Reading/Notes and Highlights/Definitions.md","permalink":"/reading/notes-and-highlights/definitions/","dgPassFrontmatter":true,"noteIcon":"galaxy"}
+{"title":"Definitions","aliases":["radicals","classism"],"created":"2025-04-03T00:57:35.784-07:00","updated":"2025-04-04T12:48:59.821-07:00","tags":["defintions"],"dg-publish":true,"dg-note-icon":"galaxy","dg-path":"Reading/Notes and Highlights/Definitions.md","permalink":"/reading/notes-and-highlights/definitions/","dgPassFrontmatter":true,"noteIcon":"galaxy"}
 ---
 
 # class·ism
@@ -11,7 +11,7 @@ _noun_
     "they are told to be on watch against the evils of classism"
     
   
-## rad·i·cal
+# rad·i·cal
 /ˈradək(ə)l/
 
 _noun_
