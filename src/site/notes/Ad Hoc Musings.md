@@ -1,88 +1,99 @@
 ---
-{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-04T12:05:18.608-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
+{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-04T12:11:06.111-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
 ---
 
-![Jia a from Canva.png](/img/user/Assets/Jia%20a%20from%20Canva.png)
 
 <div id="forest-graph">
-  <div class="forest-body">
+<div class="forest-body">
 
-    <!-- Row 1 -->
-    <div class="forest-row">
-      <a class="black-hole" href="/" title="Universe">
-        <img src="/img/5.svg" alt="" style="width:auto;height:25px">
-      </a>
-    </div>
+<div class="forest-row">
+<span class="tree plane}">
+<span></span>
+</span>
+<a class="black-hole" href="/" title="Universe">
+<img src="/img/5.svg" alt="" style="width:auto;height:25px">
+</a>
 
-    <!-- Row 2 -->
-    <div class="forest-row">
-      <a class="tree" href="/personal/musings/class-consciousness/" title="Class Consciousness">
-        <img src="/img/1.svg" alt="" style="width:auto;height:25px">
-      </a>
-    </div>
-
-    <!-- Row 3 -->
-    <div class="forest-row">
-      <a class="tree" href="/personal/reading/books/read/lapvona//" title="Lapvona">
-        <img src="/img/1.svg" alt="" style="width:auto;height:35px">
-      </a>
-       <a class="tree" href="/personal/reading/books/read/the-silence-of-the-girls" title="The Silence of the Girls">
-        <img src="/img/1.svg" alt="" style="width:auto;height:35px">
-      </a>
-    </div>
-
-    <!-- Row 4 -->
-    <div class="forest-row">
-      <a class="tree" href="/personal/notes-and-highlights/definitions" title="Definitions">
-        <img src="/img/6.svg" alt="" style="width:auto;height:35px">
-      </a>
-    </div>
-
-    <!-- Row 5 -->
-    <div class="forest-row">
-      <a class="tree" href="/enitites/concept/object/websites/mariano-pascual-portfolio" title="Mariano Pascual Porfolio">
-        <img src="/img/6.svg" alt="" style="width:auto;height:35px">
-      </a>
-    </div>
-
-    <!-- Row 6 -->
-    <div class="forest-row">
-      
-    </div>
-
-    <!-- Row 7 -->
-    <div class="forest-row">
-      
-    </div>
-
-    <!-- Row 8 -->
-    <div class="forest-row">
-      
-    </div>
-
-    <!-- Row 9 -->
-    <div class="forest-row">
-      
-    </div>
-
-    <!-- Row 10 -->
-    <div class="forest-row">
-     
-    </div>
-
-    <!-- Row 11 -->
-    <div class="forest-row">
-    
-    </div>
-
-    <!-- Row 12 -->
-    <div class="forest-row">
-
-    </div>
-
-  </div>
 </div>
 
+<div class="forest-row">
+<a class="tree" href="/writings/series/unlived-lives-of-ours/" title="Unlived Lives of Ours">
+<img src="/img/signpost.svg" alt="" style="width:auto;height:25px">
+</a>
+<a class="tree" href="/reading/books/read/a-little-larger-than-the-entire-universe-by-fernando-pessoa/" title="A Little Larger Than the Entire Universe">
+<img src="/img/tree-2.svg" alt="" style="width:auto;height:25px">
+</a>
+</div>
+
+<div class="forest-row">
+<a class="tree" href="/writings/creative/poems/rain/" title="বৃষ্টি">
+<img src="/img/tree-3.svg" alt="" style="width:auto;height:35px">
+</a>
+</div>
+
+<div class="forest-row">
+<a class="tree" href="/musings/annihilation-of-self-in-religions/" title="Annihilation of Self in Religions">
+<img src="/img/tree-2.svg" alt="" style="width:auto;height:25px">
+</a>
+</div>
+
+<div class="forest-row">
+</div>
+
+<div class="forest-row">
+</div>
+
+<div class="forest-row">
+</div>
+
+<div class="forest-row">
+<span class="tree plane}">
+<span></span>
+</span>
+
+<span class="tree plane}">
+<span></span>
+</span>
+</div>
+
+<div class="forest-row">
+</div>
+
+<div class="forest-row">
+<span class="tree plane}">
+<span></span>
+</span>
+<span class="tree plane}">
+<span></span>
+</span>
+</div>
+
+<div class="forest-row">
+</div>
+
+<div class="forest-row">
+</div>
+
+<div class="forest-row">
+</div>
+
+<div class="forest-row">
+</div>
+
+<div class="forest-row">
+</div>
+
+</div>
+<div class="forest-legends">
+<div class="stat"><img src="/img/tree-2.svg" alt="Sapling">71 Saplings</div>
+<div class="stat"><img src="/img/stone.svg" alt="Stone">60 Stones</div>
+<div class="stat"><img src="/img/tree-1.svg" alt="Seedling">37 Seedlings</div>
+<div class="stat"><img src="/img/tree-3.svg" alt="Tree">31 Trees</div>
+<div class="stat"><img src="/img/chest.svg" alt="Chest">7 Chests</div>
+<div class="stat"><img src="/img/signpost.svg" alt="Signpost">5 Signposts</div>
+<div class="stat"><img src="/img/withered.svg" alt="Withered">2 Withered</div>
+</div>
+</div>
 
 > [!quote-with-source] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.
@@ -116,7 +127,7 @@ Black Holes (![Maturity Level: black-hole|14](https://adhocmusings.vercel.app/im
 Galaxies (![Maturity Level: galaxy|14](https://adhocmusings.vercel.app/img/6.svg)) are notes scraped or pulled from other mediums (e.g. Reading highlights and notes). Growth is irrelevant for these notes.
 
 ### Telescope
-Telescopes (![Maturity Level: telescope|14](https://adhocmusings.vercel.app/img/7.svg) are notes that allow us to navigate easily (e.g. Collection of books or writings).
+Telescopes (![Maturity Level: telescope|14](https://adhocmusings.vercel.app/img/7.svg)) are notes that allow us to navigate easily (e.g. Collection of books or writings).
 
 ### Satellites
 A Satellite (![Maturity Level: satellite|14](https://adhocmusings.vercel.app/img/8.svg)) get changes in its content. However, they don't grow. Chests are how-to's and tools I have made.
@@ -177,5 +188,4 @@ If you find anything praiseworthy (I doubt you will), tell me privately. For com
 </span>
 <a title="Start a Discussion" id="emailme" href="mailto:connect@utsob.me?subject=Regarding The Threshold&amp;body=Discussing https://hermitage.utsob.me/"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="mail-plus" class="lucide lucide-mail-plus svg-icon" icon-name="mail-plus" title="Discuss" aria-hidden="true"><path d="M22 13V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h8"></path><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path><path d="M19 16v6"></path><path d="M16 19h6"></path></svg></a>
 </aside>
-
 
