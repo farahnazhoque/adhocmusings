@@ -1,43 +1,47 @@
 ---
-{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-04T12:11:06.111-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
+{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-04T12:21:27.878-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
 ---
 
 
 <div id="forest-graph">
 <div class="forest-body">
-
 <div class="forest-row">
+<a class="telescope" href="/" title="Universe">
+<img src="/img/7.svg" alt="" style="width:auto;height:25px">
+</a>
 <span class="tree plane}">
 <span></span>
 </span>
-<a class="black-hole" href="/" title="Universe">
-<img src="/img/5.svg" alt="" style="width:auto;height:25px">
-</a>
-
-</div>
-
-<div class="forest-row">
-<a class="tree" href="/writings/series/unlived-lives-of-ours/" title="Unlived Lives of Ours">
-<img src="/img/signpost.svg" alt="" style="width:auto;height:25px">
-</a>
-<a class="tree" href="/reading/books/read/a-little-larger-than-the-entire-universe-by-fernando-pessoa/" title="A Little Larger Than the Entire Universe">
-<img src="/img/tree-2.svg" alt="" style="width:auto;height:25px">
+<a class="satellite" href="/entities/entity-index/" title="Entity Indexy">
+<img src="/img/8.svg" alt="" style="width:auto;height:25px">
 </a>
 </div>
 
 <div class="forest-row">
-<a class="tree" href="/writings/creative/poems/rain/" title="বৃষ্টি">
-<img src="/img/tree-3.svg" alt="" style="width:auto;height:35px">
+<a class="stellar-nebula" href="/reading/books/read/lapvona-by-ottessa-moshfegh" title="Lapvona by Ottessa Moshfegh">
+<img src="/img/1.svg" alt="" style="width:auto;height:25px">
+</a>
+<a class="stellar-nebula" href="/reading/books/read/the-silence-of-the-girls-by-pat-barker" title="The Silence of the Girls by Pat Barker">
+<img src="/img/1.svg" alt="" style="width:auto;height:25px">
 </a>
 </div>
 
 <div class="forest-row">
-<a class="tree" href="/musings/annihilation-of-self-in-religions/" title="Annihilation of Self in Religions">
-<img src="/img/tree-2.svg" alt="" style="width:auto;height:25px">
+<a class="stellar-nebula" href="/musings/class-consciousness/" title="Class Consciousness">
+<img src="/img/1.svg" alt="" style="width:auto;height:35px">
 </a>
 </div>
 
 <div class="forest-row">
+<a class="galaxy" href="/reading/notes-and-highlights/definitions/" title="Definitions">
+<img src="/img/6.svg" alt="" style="width:auto;height:25px">
+</a>
+</div>
+
+<div class="forest-row">
+<a class="galaxy" href="/entities/objects/mariano-pascual-portfolio/" title="Mariano Pascual Porfolio">
+<img src="/img/6.svg" alt="" style="width:auto;height:25px">
+</a>
 </div>
 
 <div class="forest-row">
@@ -85,13 +89,14 @@
 
 </div>
 <div class="forest-legends">
-<div class="stat"><img src="/img/tree-2.svg" alt="Sapling">71 Saplings</div>
-<div class="stat"><img src="/img/stone.svg" alt="Stone">60 Stones</div>
-<div class="stat"><img src="/img/tree-1.svg" alt="Seedling">37 Seedlings</div>
-<div class="stat"><img src="/img/tree-3.svg" alt="Tree">31 Trees</div>
-<div class="stat"><img src="/img/chest.svg" alt="Chest">7 Chests</div>
-<div class="stat"><img src="/img/signpost.svg" alt="Signpost">5 Signposts</div>
-<div class="stat"><img src="/img/withered.svg" alt="Withered">2 Withered</div>
+<div class="stat"><img src="/img/1.svg" alt="Sapling">3 Stellar Nebulae</div>
+<div class="stat"><img src="/img/2.svg" alt="Stone">0 Stars</div>
+<div class="stat"><img src="/img/3.svg" alt="Seedling">0 Red Giants</div>
+<div class="stat"><img src="/img/4.svg" alt="Tree">0 Supernova</div>
+<div class="stat"><img src="/img/5.svg" alt="Chest">0 Black Holes</div>
+<div class="stat"><img src="/img/6.svg" alt="Signpost">2 Galaxy</div>
+<div class="stat"><img src="/img/7.svg" alt="Withered">1 Telescope</div>
+<div class="stat"><img src="/img/8.svg" alt="Withered">1 Satellite</div>
 </div>
 </div>
 
@@ -123,6 +128,7 @@ Supernovas (![Maturity Level: withered|14](https://adhocmusings.vercel.app/img/4
 
 ### Black Holes
 Black Holes (![Maturity Level: black-hole|14](https://adhocmusings.vercel.app/img/5.svg)) are the notes expressing outdated views (totally or partially) but kept for the historicity of our thoughts. For partially outdated notes, warnings will be placed wherever appropriate.
+
 ### Galaxies
 Galaxies (![Maturity Level: galaxy|14](https://adhocmusings.vercel.app/img/6.svg)) are notes scraped or pulled from other mediums (e.g. Reading highlights and notes). Growth is irrelevant for these notes.
 
