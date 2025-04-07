@@ -1,5 +1,5 @@
 ---
-{"title":"Lack of Creation","mood":"sadness","weather":"night","location":"Irivine, CA","dg-publish":true,"dg-note-icon":"black-hole","tags":["life","creation","creativity","l"],"updated":"2025-04-04T15:56:11.668-07:00","created":"2025-03-30T14:46:08.794-07:00","dg-path":"Journal/Pothole.md","permalink":"/journal/pothole/","dgPassFrontmatter":true,"noteIcon":"black-hole"}
+{"title":"Lack of Creation","mood":"sadness","weather":"night","location":"Irivine, CA","dg-publish":true,"dg-note-icon":"death-and-rebirth","tags":["life","creation","creativity","l"],"updated":"2025-04-07T15:55:26.226-07:00","created":"2025-03-30T14:46:08.794-07:00","dg-path":"Journal/Pothole.md","permalink":"/journal/pothole/","dgPassFrontmatter":true,"noteIcon":"death-and-rebirth"}
 ---
 
 
