@@ -1,64 +1,64 @@
 ---
-{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-04T15:57:48.177-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
+{"title":"Universe","dg-home":true,"dg-publish":true,"dg-note-icon":"telescope","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-07T15:44:08.834-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"telescope"}
 ---
 
 
 <div id="forest-graph">
 <div class="forest-body">
 <div class="forest-row">
-<a class="telescope" href="/" title="Universe">
+<a class="the-swan" href="/" title="The Forest">
 <img src="/img/7.svg" alt="" style="width:auto;height:25px">
 </a>
 <span class="tree plane}">
 <span></span>
 </span>
-<a class="satellite" href="/entities/entity-index/" title="Entity Indexy">
-<img src="/img/8.svg" alt="" style="width:auto;height:25px">
+<a class="wild-berries" href="/entities/entity-index/" title="Entity Index">
+<img src="/img/6.svg" alt="" style="width:auto;height:25px">
 </a>
 </div>
 
 <div class="forest-row">
-<a class="stellar-nebula" href="/reading/books/read/lapvona-by-ottessa-moshfegh" title="Lapvona by Ottessa Moshfegh">
-<img src="/img/1.svg" alt="" style="width:auto;height:25px">
+<a class="the-swan" href="/reading/books/read/lapvona-by-ottessa-moshfegh" title="Lapvona by Ottessa Moshfegh">
+<img src="/img/7.svg" alt="" style="width:auto;height:25px">
 </a>
-<a class="stellar-nebula" href="/reading/books/read/the-silence-of-the-girls-by-pat-barker" title="The Silence of the Girls by Pat Barker">
-<img src="/img/1.svg" alt="" style="width:auto;height:25px">
+<a class="the-swan" href="/reading/books/read/the-silence-of-the-girls-by-pat-barker" title="The Silence of the Girls by Pat Barker">
+<img src="/img/7.svg" alt="" style="width:auto;height:25px">
 </a>
-<a class="galaxy" href="/reading/academic-journals/extended-spider-cognitionr" title="Extended Spider Cognition">
-<img src="/img/1.svg" alt="" style="width:auto;height:25px">
+<a class="forest-deer" href="/reading/academic-journals/extended-spider-cognitionr" title="Extended Spider Cognition">
+<img src="/img/5.svg" alt="" style="width:auto;height:25px">
 </a>
-<a class="galaxy" href="/reading/articles/the-thoughts-of-a-spiderweb/" title="The Thoughts of a Spiderweb">
-<img src="/img/1.svg" alt="" style="width:auto;height:25px">
+<a class="forest-deer" href="/reading/articles/the-thoughts-of-a-spiderweb/" title="The Thoughts of a Spiderweb">
+<img src="/img/5.svg" alt="" style="width:auto;height:25px">
 </a>
 </div>
 
 <div class="forest-row">
-<a class="stellar-nebula" href="/musings/class-consciousness/" title="Class Consciousness">
+<a class="caterpillar" href="/musings/class-consciousness/" title="Class Consciousness">
 <img src="/img/1.svg" alt="" style="width:auto;height:35px">
 </a>
 </div>
 
 <div class="forest-row">
-<a class="galaxy" href="/reading/notes-and-highlights/definitions/" title="Definitions">
-<img src="/img/6.svg" alt="" style="width:auto;height:25px">
+<a class="forest-deer" href="/reading/notes-and-highlights/definitions/" title="Definitions">
+<img src="/img/5.svg" alt="" style="width:auto;height:25px">
 </a>
 </div>
 
 <div class="forest-row">
-<a class="galaxy" href="/entities/objects/mariano-pascual-portfolio/" title="Mariano Pascual Porfolio">
-<img src="/img/6.svg" alt="" style="width:auto;height:25px">
+<a class="forest-deer" href="/entities/objects/mariano-pascual-portfolio/" title="Mariano Pascual Porfolio">
+<img src="/img/5.svg" alt="" style="width:auto;height:25px">
 </a>
 </div>
 
 <div class="forest-row">
-<a class="stellar-nebula" href="/rabbit-holes/extended-cognition-of-spiders/" title="Extended Cognition of Spiders">
+<a class="caterpillar" href="/rabbit-holes/extended-cognition-of-spiders/" title="Extended Cognition of Spiders">
 <img src="/img/1.svg" alt="" style="width:auto;height:25px">
 </a>
 </div>
 
 <div class="forest-row">
-<a class="black-hole" href="/journal/lack-of-creation/" title="Lack of Creation">
-<img src="/img/5.svg" alt="" style="width:auto;height:25px">
+<a class="death-and-rebirt" href="/journal/lack-of-creation/" title="Lack of Creation">
+<img src="/img/4.svg" alt="" style="width:auto;height:25px">
 </a>
 </div>
 
@@ -101,14 +101,13 @@
 
 </div>
 <div class="forest-legends">
-<div class="stat"><img src="/img/1.svg" alt="Stellar Nebula">4 Stellar Nebulae</div>
-<div class="stat"><img src="/img/2.svg" alt="Star">0 Stars</div>
-<div class="stat"><img src="/img/3.svg" alt="Red Giant">0 Red Giants</div>
-<div class="stat"><img src="/img/4.svg" alt="Supernova">0 Supernova</div>
-<div class="stat"><img src="/img/5.svg" alt="Black Hole">1 Black Hole</div>
-<div class="stat"><img src="/img/6.svg" alt="Galaxy">4 Galaxies</div>
-<div class="stat"><img src="/img/7.svg" alt="Telescope">1 Telescope</div>
-<div class="stat"><img src="/img/8.svg" alt="Satellite">1 Satellite</div>
+<div class="stat"><img src="/img/1.svg" alt="Caterpillar">2 Caterpillars</div>
+<div class="stat"><img src="/img/2.svg" alt="Cocoon">0 Cocoon</div>
+<div class="stat"><img src="/img/3.svg" alt="Butterfly">0 Butterfly</div>
+<div class="stat"><img src="/img/4.svg" alt="Death and Rebirth">1 Death and Rebirth</div>
+<div class="stat"><img src="/img/5.svg" alt="Forest Deer">4 Forest Deer</div>
+<div class="stat"><img src="/img/6.svg" alt="Wild Berries">1 Wild Berry</div>
+<div class="stat"><img src="/img/7.svg" alt="The Swan">3 The Swans</div>
 </div>
 </div>
 
@@ -125,30 +124,26 @@ If you have any questions or opinions, please feel free to contact me at [fhoque
 ## Maturity Levels
 The maturity level for each note is represented by phases of a star and their icons of various growth.
 
-### Stellar Nebulas
-Stellar Nebulas (![Maturity Level: 1|14](https://adhocmusings.vercel.app/img/1.svg)) are thoughts barely started. They are primarily ideas, impromptu musings that I wrote down, and are meant to be expanded later.
+### Caterpillars
+Caterpillars (![Maturity Level: 1|14](https://adhocmusings.vercel.app/img/1.svg)) are thoughts barely started. They are primarily ideas, impromptu musings that I wrote down, and are meant to be expanded later.
 
-### Stars
-Stars (![Maturity Level: 2|14](https://adhocmusings.vercel.app/img/2.svg))have a good amount of content. However, they still need to be fleshed out. Ideas are being solidified in this stage.
+### Cocoons
+Cocoons (![Maturity Level: 2|14](https://adhocmusings.vercel.app/img/2.svg))have a good amount of content. However, they still need to be fleshed out. Ideas are being solidified in this stage.
 
-### Red Giants
-Red Giant (![Maturity Level: 3|14](https://adhocmusings.vercel.app/img/3.svg)) are grown-up coherent pieces of thought/essay/expression that should not change much except for some editorial enhancements.
+### Butterflies
+Butterflies (![Maturity Level: 3|14](https://adhocmusings.vercel.app/img/3.svg)) are grown-up coherent pieces of thought/essay/expression that should not change much except for some editorial enhancements.
 
-### Supernovas
-Supernovas (![Maturity Level: withered|14](https://adhocmusings.vercel.app/img/4.svg)) are the notes that are more filled with corrections, or comments collected from other sources or opinions regarding an idea I have discussed.
+### Death and Rebirth
+Death and Rebirth (![Maturity Level: black-hole|14](https://adhocmusings.vercel.app/img/4.svg)) are the notes expressing outdated views (totally or partially) but kept for the historicity of our thoughts. For partially outdated notes, warnings will be placed wherever appropriate.
 
-### Black Holes
-Black Holes (![Maturity Level: black-hole|14](https://adhocmusings.vercel.app/img/5.svg)) are the notes expressing outdated views (totally or partially) but kept for the historicity of our thoughts. For partially outdated notes, warnings will be placed wherever appropriate.
+### Forest Deer
+Forest Deer (![Maturity Level: galaxy|14](https://adhocmusings.vercel.app/img/5.svg)) are notes scraped or pulled from other mediums (e.g. Reading highlights and notes). Growth is irrelevant for these notes.
 
-### Galaxies
-Galaxies (![Maturity Level: galaxy|14](https://adhocmusings.vercel.app/img/6.svg)) are notes scraped or pulled from other mediums (e.g. Reading highlights and notes). Growth is irrelevant for these notes.
+### Wild Berries
+Wild Berries (![Maturity Level: telescope|14](https://adhocmusings.vercel.app/img/6.svg)) are notes that allow us to navigate easily (e.g. Collection of books or writings).
 
-### Telescope
-Telescopes (![Maturity Level: telescope|14](https://adhocmusings.vercel.app/img/7.svg)) are notes that allow us to navigate easily (e.g. Collection of books or writings).
-
-### Satellites
-A Satellite (![Maturity Level: satellite|14](https://adhocmusings.vercel.app/img/8.svg)) get changes in its content. However, they don't grow. Chests are how-to's and tools I have made.
-
+### The Swan
+The Swan (![Maturity Level: satellite|14](https://adhocmusings.vercel.app/img/7.svg)) get changes in its content. However, they don't grow. Swans are how-to's and tools I have made.
 
 ---
 ## 📚 Read Lately
