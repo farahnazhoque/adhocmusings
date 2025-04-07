@@ -1,5 +1,5 @@
 ---
-{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-07T15:56:12.243-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
+{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-07T15:56:12.243-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
 ---
 
 
@@ -155,9 +155,10 @@ The Swan (![Maturity Level: satellite|14](https://adhocmusings.vercel.app/img/7.
 { .block-language-dataview}
 ---
 ## 🧠 On Top of My Mind…
-| Cover                                                                                     | Title                                                            | Updated        | Created                  | Tags                                                                              |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------- | ------------------------ | --------------------------------------------------------------------------------- |
-| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Class Consciousness\|Class Consciousness]] | April 02, 2025 | 1:44 PM - April 02, 2025 | <ul><li>classism</li><li>wealth</li><li>wealth-division</li><li>opinion</li></ul> |
+| Cover                                                                                     | Title                                                                          | Updated                  | Created                  | Tags                                                                              |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------ | ------------------------ | --------------------------------------------------------------------------------- |
+| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Class Consciousness\|Class Consciousness]]               | April 02, 2025           | 1:44 PM - April 02, 2025 | <ul><li>classism</li><li>wealth</li><li>wealth-division</li><li>opinion</li></ul> |
+| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Speaking softly yet firmly\|Speaking Softly yet Firmly]] | 3:54 PM - April 07, 2025 | 1:43 PM - April 07, 2025 | <ul></ul>                                                                         |
 
 { .block-language-dataview}
 ---
