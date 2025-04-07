@@ -57,7 +57,7 @@
 </div>
 
 <div class="forest-row">
-<a class="death-and-rebirt" href="/journal/lack-of-creation/" title="Lack of Creation">
+<a class="death-and-rebirth" href="/journal/lack-of-creation/" title="Lack of Creation">
 <img src="/img/4.svg" alt="" style="width:auto;height:25px">
 </a>
 </div>
