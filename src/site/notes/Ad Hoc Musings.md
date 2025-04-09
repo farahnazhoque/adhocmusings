@@ -1,5 +1,5 @@
 ---
-{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-09T14:59:40.858-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
+{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-09T15:36:34.851-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
 ---
 
 
@@ -60,12 +60,15 @@
 </div>
 
 <div class="forest-row">
-<a class="death-and-rebirt" href="/journal/lack-of-creation/" title="Lack of Creation">
+<a class="death-and-rebirth" href="/journal/lack-of-creation/" title="Lack of Creation">
 <img src="/img/4.svg" alt="" style="width:auto;height:25px">
 </a>
 </div>
 
 <div class="forest-row">
+<a class="forest-deer" href="/lists/memory-archive/" title="Memory Archive: Things that moved me">
+<img src="/img/5.svg" alt="" style="width:auto;height:25px">
+</a>
 <span class="tree plane}">
 <span></span>
 </span>
@@ -108,7 +111,7 @@
 <div class="stat"><img src="/img/2.svg" alt="Cocoon">0 Cocoon</div>
 <div class="stat"><img src="/img/3.svg" alt="Butterfly">0 Butterfly</div>
 <div class="stat"><img src="/img/4.svg" alt="Death and Rebirth">1 Death and Rebirth</div>
-<div class="stat"><img src="/img/5.svg" alt="Forest Deer">4 Forest Deer</div>
+<div class="stat"><img src="/img/5.svg" alt="Forest Deer">5 Forest Deer</div>
 <div class="stat"><img src="/img/6.svg" alt="Wild Berries">1 Wild Berry</div>
 <div class="stat"><img src="/img/7.svg" alt="The Swan">4 The Swans</div>
 </div>
