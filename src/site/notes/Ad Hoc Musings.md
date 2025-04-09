@@ -1,5 +1,5 @@
 ---
-{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-07T15:56:12.243-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
+{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-09T14:53:47.970-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
 ---
 
 
@@ -35,6 +35,9 @@
 <div class="forest-row">
 <a class="caterpillar" href="/musings/class-consciousness/" title="Class Consciousness">
 <img src="/img/1.svg" alt="" style="width:auto;height:35px">
+</a>
+<a class="the-swan" href="/musings/on-personal-style/" title="On Personal Style">
+<img src="/img/7.svg" alt="" style="width:auto;height:35px">
 </a>
 </div>
 
@@ -107,7 +110,7 @@
 <div class="stat"><img src="/img/4.svg" alt="Death and Rebirth">1 Death and Rebirth</div>
 <div class="stat"><img src="/img/5.svg" alt="Forest Deer">4 Forest Deer</div>
 <div class="stat"><img src="/img/6.svg" alt="Wild Berries">1 Wild Berry</div>
-<div class="stat"><img src="/img/7.svg" alt="The Swan">3 The Swans</div>
+<div class="stat"><img src="/img/7.svg" alt="The Swan">4 The Swans</div>
 </div>
 </div>
 
@@ -155,10 +158,11 @@ The Swan (![Maturity Level: satellite|14](https://adhocmusings.vercel.app/img/7.
 { .block-language-dataview}
 ---
 ## 🧠 On Top of My Mind…
-| Cover                                                                                     | Title                                                                          | Updated                  | Created                  | Tags                                                                              |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------ | ------------------------ | --------------------------------------------------------------------------------- |
-| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Class Consciousness\|Class Consciousness]]               | April 02, 2025           | 1:44 PM - April 02, 2025 | <ul><li>classism</li><li>wealth</li><li>wealth-division</li><li>opinion</li></ul> |
-| ![coverimg\|100](https://i.pinimg.com/736x/75/47/05/754705ee118ccd0bc5687f6117a10f2c.jpg) | [[Personal/Musings/Speaking softly yet firmly\|Speaking Softly yet Firmly]] | 3:54 PM - April 07, 2025 | 1:43 PM - April 07, 2025 | \-                                                                                |
+| Cover                                                                                     | Title                                                                          | Updated                  | Created                  | Tags                                                                                                                    |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------ | ------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Class Consciousness\|Class Consciousness]]               | April 02, 2025           | 1:44 PM - April 02, 2025 | <ul><li>classism</li><li>wealth</li><li>wealth-division</li><li>opinion</li></ul>                                       |
+| ![coverimg\|100](https://i.pinimg.com/736x/75/47/05/754705ee118ccd0bc5687f6117a10f2c.jpg) | [[Personal/Musings/Speaking softly yet firmly\|Speaking Softly yet Firmly]] | 3:54 PM - April 07, 2025 | 1:43 PM - April 07, 2025 | \-                                                                                                                      |
+| ![coverimg\|100](https://i.pinimg.com/736x/71/bf/45/71bf4573acdd0f1821a5c9fd3c3678c6.jpg) | [[Personal/Musings/On Personal Style\|On Personal Style]]                   | April 09, 2025           | 1:44 PM - April 09, 2025 | <ul><li>personal-style</li><li>creation</li><li>curated</li><li>algorithm</li><li>fashion</li><li>inner-child</li></ul> |
 
 { .block-language-dataview}
 ---
