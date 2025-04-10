@@ -1,7 +1,6 @@
 ---
-{"title":"Lack of Creation","mood":"sadness","weather":"night","location":"Irivine, CA","dg-publish":true,"dg-note-icon":"death-and-rebirth","tags":["life","creation","creativity","l"],"updated":"2025-04-07T15:55:26.226-07:00","created":"2025-03-30T14:46:08.794-07:00","dg-path":"Journal/Pothole.md","permalink":"/journal/pothole/","dgPassFrontmatter":true,"noteIcon":"death-and-rebirth"}
+{"title":"Lack of Creation","mood":"sadness","weather":"night","location":"Irivine, CA","dg-publish":true,"dg-note-icon":"death-and-rebirth","tags":["life","creation","creativity","l"],"updated":"2025-04-10T14:43:00.999-07:00","created":"2025-03-30T14:46:08.794-07:00","dg-path":"Journal/Pothole.md","permalink":"/journal/pothole/","dgPassFrontmatter":true,"noteIcon":"death-and-rebirth"}
 ---
-
 
 My lack of creativity is one thing that is slowly being extremely evident, especially as I try to exist in a time where overconsumption has become unbelievably accessible. I try to take some time off my day to create something, anything, from a piece of writing to a page in my passion-project of zine creation. Yet, I am always forced to push it onto the next day.
 
