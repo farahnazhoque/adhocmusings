@@ -1,5 +1,5 @@
 ---
-{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-11T12:05:00.667-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
+{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-11T12:30:27.718-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
 ---
 
 
@@ -129,10 +129,10 @@
 </div>
 </div>
 
-> [!quote-with-source] Socrates (from Plato's Apology)
-> The unexamined life is not worth living.
+> [!quote-with-source] Anais Nin
+>The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
 
-With such noise and bustle around us, one cannot help but build a hermitage[^1] in one's mind for contemplation and peace.
+Due to the current state of the internet, and how accessible it is, overconsumption has become the norm to the point, it has taken over reflection, musings, critical thinking, and of course, creation. Hence, to slow me down, to allow me to process a vault of knowledge well, and in a manner I actually understand what I am consuming, I have created [[Ad Hoc Musings\|Ad Hoc Musings]], my digital garden.
 
 This [digital garden](https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/) contains some contemplations and musings from my retreats there.
 
