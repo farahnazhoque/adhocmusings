@@ -1,5 +1,5 @@
 ---
-{"title":"Definitions","aliases":["radicals","classism"],"created":"2025-04-03T00:57:35.784-07:00","updated":"2025-04-07T15:54:17.784-07:00","tags":["defintions"],"dg-publish":true,"dg-note-icon":"forest-deer","dg-path":"Reading/Notes and Highlights/Definitions.md","permalink":"/reading/notes-and-highlights/definitions/","dgPassFrontmatter":true,"noteIcon":"forest-deer"}
+{"title":"Definitions","aliases":["radicals","classism"],"created":"2025-04-03T00:57:35.784-07:00","updated":"2025-04-11T18:08:55.093-07:00","tags":["defintions"],"dg-publish":true,"dg-note-icon":"forest-deer","dg-path":"Reading/Notes and Highlights/Definitions.md","permalink":"/reading/notes-and-highlights/definitions/","dgPassFrontmatter":true,"noteIcon":"forest-deer"}
 ---
 
 # class·ism
@@ -17,3 +17,10 @@ _noun_
 _noun_
 
 1. a person who [advocates](https://www.google.com/search?sca_esv=ba0413463e4e44e4&sxsrf=AHTn8zpdlZNTnT3ic5oFTQfzZ_sX9Kp6Tg:1743666796648&q=advocates&si=APYL9bsF-Mq-fXaAyJcIV7GbwI1qQEvpJ7YmgFaJgsPTyjhMUq575Q_AGkFzh_yeGTKa6ROjjj6Ro95rhwYW0596iWx_CV6CZGvwmcOMumgeZVzgCeA2vCA%3D&expnd=1&sa=X&ved=2ahUKEwjRj5WAsbuMAxUkke4BHXfFE3sQyecJegUIOxCtAQ) thorough or complete political or social reform; a member of a political party or part of a party [pursuing](https://www.google.com/search?sca_esv=ba0413463e4e44e4&sxsrf=AHTn8zpdlZNTnT3ic5oFTQfzZ_sX9Kp6Tg:1743666796648&q=pursuing&si=APYL9bto9KfN6HH0KMpfhyCmyq0b54wzz1upsiWxiTXDQzGiCKBnr8mh-3LaSgjAy-DIdq6_EfsLZ7M4kwGbxM6YJGcRoIULgbOsplFYR7u5Ei-pBwmm704%3D&expnd=1&sa=X&ved=2ahUKEwjRj5WAsbuMAxUkke4BHXfFE3sQyecJegUIOxCuAQ) such aims.  { #de7ea9}
+
+  
+# al·ter e·go
+
+_noun_
+
+1. a person's secondary or alternative personality.
