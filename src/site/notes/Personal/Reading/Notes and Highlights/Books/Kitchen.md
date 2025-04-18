@@ -1,5 +1,5 @@
 ---
-{"title":"Kitchen","authors":["Banana Yoshimoto"],"genre":"slice of life","created":"2025-04-11T12:02:05.606-07:00","updated":"2025-04-16T15:43:02.535-07:00","tags":["notes"],"dg-publish":true,"dg-note-icon":"caterpillar","dg-path":"Reading/Notes and Highlights/Books/Kitchen.md","permalink":"/reading/notes-and-highlights/books/kitchen/","dgPassFrontmatter":true,"noteIcon":"caterpillar"}
+{"title":"Kitchen","authors":["Banana Yoshimoto"],"genre":"slice of life","created":"2025-04-11T12:02:05.606-07:00","updated":"2025-04-16T15:45:52.097-07:00","tags":["notes"],"dg-publish":true,"dg-note-icon":"caterpillar","dg-path":"Reading/Notes and Highlights/Books/Kitchen.md","permalink":"/reading/notes-and-highlights/books/kitchen/","dgPassFrontmatter":true,"noteIcon":"caterpillar"}
 ---
 
 ## Notes and rambles:
@@ -23,3 +23,4 @@ There is a lot of lessons to be learned from this book. Most of those lessons co
 11. 41 imp
 12. 42 imp
 13. 43 imp
+14. 59 imp

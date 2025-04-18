@@ -1,5 +1,5 @@
 ---
-{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-15T16:37:41.323-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
+{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-18T11:26:10.615-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
 ---
 
 
@@ -41,6 +41,12 @@
 </a>
 <a class="death-and-rebirth" href="/musings/environment-and-creation/" title="Environment and Creation">
 <img src="/img/4.svg" alt="" style="width:auto;height:35px">
+</a>
+<a class="the-swan" href="/musings/on-personal-style/" title="On Personal Style">
+<img src="/img/7.svg" alt="" style="width:auto;height:35px">
+</a>
+<a class="cocoon" href="/musings/the-complexities-of-teenage-girls/" title="The Complexities of teenage girls">
+<img src="/img/2.svg" alt="" style="width:auto;height:35px">
 </a>
 </div>
 
@@ -126,7 +132,7 @@
 </div>
 <div class="forest-legends">
 <div class="stat"><img src="/img/1.svg" alt="Caterpillar">3 Caterpillars</div>
-<div class="stat"><img src="/img/2.svg" alt="Cocoon">0 Cocoon</div>
+<div class="stat"><img src="/img/2.svg" alt="Cocoon">1 Cocoon</div>
 <div class="stat"><img src="/img/3.svg" alt="Butterfly">0 Butterfly</div>
 <div class="stat"><img src="/img/4.svg" alt="Death and Rebirth">2 Deaths and Rebirths</div>
 <div class="stat"><img src="/img/5.svg" alt="Forest Deer">9 Forest Deer</div>
@@ -179,11 +185,12 @@ The Swan (![Maturity Level: satellite|14](https://adhocmusings.vercel.app/img/7.
 { .block-language-dataview}
 ---
 ## 🧠 On Top of My Mind…
-| Cover                                                                                     | Title                                                                      | Updated        | Created                  | Tags                                                                                                                         |
-| ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Class Consciousness\|Class Consciousness]]           | April 02, 2025 | 1:44 PM - April 02, 2025 | <ul><li>classism</li><li>wealth</li><li>wealth-division</li><li>opinion</li></ul>                                            |
-| ![coverimg\|100](https://i.pinimg.com/736x/71/bf/45/71bf4573acdd0f1821a5c9fd3c3678c6.jpg) | [[Personal/Musings/On Personal Style\|On Personal Style]]               | April 09, 2025 | 1:44 PM - April 09, 2025 | <ul><li>personal-style</li><li>creation</li><li>curated</li><li>algorithm</li><li>fashion</li><li>inner-child</li></ul>      |
-| ![coverimg\|100](https://i.pinimg.com/736x/70/ec/7d/70ec7d2853230e259adfe1c9ecccca31.jpg) | [[Personal/Musings/Environment and Creation\|Environment and Creation]] | April 09, 2025 | 1:44 PM - April 09, 2025 | <ul><li>creation</li><li>inner-child</li><li>child-like-wonder</li><li>writing</li><li>creating</li><li>creativity</li></ul> |
+| Cover                                                                                     | Title                                                                                        | Updated        | Created                  | Tags                                                                                                                         |
+| ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| ![coverimg\|100](https://i.pinimg.com/736x/24/6d/71/246d71a5bbdf8e8aa8084da2330dd9eb.jpg) | [[Personal/Musings/Class Consciousness\|Class Consciousness]]                             | April 02, 2025 | 1:44 PM - April 02, 2025 | <ul><li>classism</li><li>wealth</li><li>wealth-division</li><li>opinion</li></ul>                                            |
+| ![coverimg\|100](https://i.pinimg.com/736x/71/bf/45/71bf4573acdd0f1821a5c9fd3c3678c6.jpg) | [[Personal/Musings/On Personal Style\|On Personal Style]]                                 | April 09, 2025 | 1:44 PM - April 09, 2025 | <ul><li>personal-style</li><li>creation</li><li>curated</li><li>algorithm</li><li>fashion</li><li>inner-child</li></ul>      |
+| ![coverimg\|100](https://i.pinimg.com/736x/70/ec/7d/70ec7d2853230e259adfe1c9ecccca31.jpg) | [[Personal/Musings/Environment and Creation\|Environment and Creation]]                   | April 09, 2025 | 1:44 PM - April 09, 2025 | <ul><li>creation</li><li>inner-child</li><li>child-like-wonder</li><li>writing</li><li>creating</li><li>creativity</li></ul> |
+| ![coverimg\|100](https://i.pinimg.com/736x/3a/ef/ee/3aefee89f0fb9467169cd38e823a0f6b.jpg) | [[Personal/Musings/The complexities of teenage girls\|The complexities of teenage girls]] | April 18, 2025 | 1:43 PM - April 16, 2025 | <ul><li>girlhood</li><li>society</li><li>commentary</li><li>culture</li><li>high-school</li></ul>                            |
 
 { .block-language-dataview}
 ---
