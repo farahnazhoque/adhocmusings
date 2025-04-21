@@ -1,8 +1,8 @@
 ---
-{"title":"Once more I am left stranded","mood":"reflective","weather":"night","location":"Irvine, CA","dg-publish":true,"dg-note-icon":"cocoon","tags":["life","career","passion"],"updated":"2025-04-21T00:02:09.385-07:00","created":"2025-04-20T23:46:35.205-07:00","dg-path":"Journal/Once more I am left stranded.md","permalink":"/journal/once-more-i-am-left-stranded/","dgPassFrontmatter":true,"noteIcon":"cocoon"}
+{"title":"Once more I am left stranded","mood":"reflective","weather":"night","location":"Irvine, CA","dg-publish":true,"dg-note-icon":"cocoon","tags":["life","career","passion"],"updated":"2025-04-21T00:02:54.413-07:00","created":"2025-04-20T23:46:35.205-07:00","dg-path":"Journal/Once more I am left stranded.md","permalink":"/journal/once-more-i-am-left-stranded/","dgPassFrontmatter":true,"noteIcon":"cocoon"}
 ---
 
-My world is, unfortunately, looking bleak. I have given my all and done as much as possible without completely giving myself up completely towards my pursuit as a software engineer. I do not think it is primarily my fault that to this date I have not gotten a proper internship or job offer, despite what I have been made to believe for the longest time.
+My world is, unfortunately, looking bleak. I have given my all and done as much as possible without completely giving myself up behind my pursuit as a software engineer. I do not think it is primarily my fault that, to this date, I have not gotten a proper internship or job offer, despite what I have been made to believe for the longest time.
 
 I have doubted myself again and again, and kept on questioning my worth as a human being, as a professional. Yet, every role I have worked within have led me to outshine and outperform, and never have I once disappointed. I am not being prideful, just giving myself the credit I so long sought for from this job hunting process.
 
