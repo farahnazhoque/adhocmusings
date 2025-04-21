@@ -1,5 +1,5 @@
 ---
-{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-19T12:58:27.471-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
+{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-20T19:09:52.690-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
 ---
 
 
@@ -29,6 +29,8 @@
 </a>
 <a class="forest-deer" href="/reading/articles/the-thoughts-of-a-spiderweb/" title="The Thoughts of a Spiderweb">
 <img src="/img/5.svg" alt="" style="width:auto;height:25px">
+<a class="the-swan" href="/reading/books/read/kitchen-by-banana-yoshimoto/" title="Kitchen by Banana Yoshimoto">
+<img src="/img/7.svg" alt="" style="width:auto;height:25px">
 </a>
 </div>
 
@@ -140,7 +142,7 @@
 <div class="stat"><img src="/img/4.svg" alt="Death and Rebirth">2 Deaths and Rebirths</div>
 <div class="stat"><img src="/img/5.svg" alt="Forest Deer">9 Forest Deer</div>
 <div class="stat"><img src="/img/6.svg" alt="Wild Berries">1 Wild Berry</div>
-<div class="stat"><img src="/img/7.svg" alt="The Swan">4 The Swans</div>
+<div class="stat"><img src="/img/7.svg" alt="The Swan">5 The Swans</div>
 </div>
 </div>
 
@@ -184,6 +186,7 @@ The Swan (![Maturity Level: satellite|14](https://adhocmusings.vercel.app/img/7.
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | ![coverimg\|100](https://m.media-amazon.com/images/I/81-i1L18p-L.jpg)                         | [[Personal/Reading/Books/Read/Lapvona\|Lapvona]]                                   | <ul><li>feminism</li><li>womanhood</li><li>tragedy</li><li>medieval</li><li>witchcraft</li><li>religious-trauma</li><li>fantasy</li></ul> |
 | ![coverimg\|100](https://upload.wikimedia.org/wikipedia/en/8/8d/The_Silence_of_the_Girls.jpg) | [[Personal/Reading/Books/Read/The Silence of the Girls\|The Silence of the Girls]] | <ul><li>greek-mythology</li><li>feminism</li><li>womanhood</li><li>tragedy</li></ul>                                                      |
+| ![coverimg\|100](https://m.media-amazon.com/images/I/81-i1L18p-L.jpg)                         | [[Personal/Reading/Books/Read/Kitchen\|Kitchen]]                                   | <ul><li>slice-of-life</li><li>loss</li><li>coming-of-age</li><li>melancholia</li><li>hope</li></ul>                                       |
 
 { .block-language-dataview}
 ---
