@@ -1,5 +1,5 @@
 ---
-{"title":"Kitchen","authors":["Banana Yoshimoto"],"genre":"slice of life","created":"2025-04-11T12:02:05.606-07:00","updated":"2025-04-20T18:55:10.657-07:00","tags":["notes"],"dg-publish":true,"dg-note-icon":"caterpillar","dg-path":"Reading/Notes and Highlights/Books/Kitchen.md","permalink":"/reading/notes-and-highlights/books/kitchen/","dgPassFrontmatter":true,"noteIcon":"caterpillar"}
+{"title":"Kitchen","authors":["Banana Yoshimoto"],"genre":"slice of life","created":"2025-04-11T12:02:05.606-07:00","updated":"2025-04-22T23:28:23.523-07:00","tags":["notes"],"dg-publish":true,"dg-note-icon":"butterfly","dg-path":"Reading/Notes and Highlights/Books/Kitchen.md","permalink":"/reading/notes-and-highlights/books/kitchen/","dgPassFrontmatter":true,"noteIcon":"butterfly"}
 ---
 
 ## Notes and rambles:

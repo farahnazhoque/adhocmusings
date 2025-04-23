@@ -1,5 +1,5 @@
 ---
-{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-21T00:00:14.711-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
+{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-22T23:29:32.486-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
 ---
 
 
@@ -59,7 +59,10 @@
 <a class="forest-deer" href="/reading/notes-and-highlights/quotes-from-substack-articles/" title="Quotes from Substack Articles">
 <img src="/img/5.svg" alt="" style="width:auto;height:25px">
 </a>
-<a class="caterpillar" href="/reading/notes-and-highlights/books/kitchen/" title="Notes on: Kitchen">
+<a class="butterfly" href="/reading/notes-and-highlights/books/kitchen/" title="Notes on: Kitchen">
+<img src="/img/3.svg" alt="" style="width:auto;height:25px">
+</a>
+<a class="caterpllar" href="/reading/notes-and-highlights/books/all-the-lovers-in-the-night/" title="Notes on: All the Lovers in the night">
 <img src="/img/1.svg" alt="" style="width:auto;height:25px">
 </a>
 </div>
@@ -141,7 +144,7 @@
 <div class="forest-legends">
 <div class="stat"><img src="/img/1.svg" alt="Caterpillar">3 Caterpillars</div>
 <div class="stat"><img src="/img/2.svg" alt="Cocoon">2 Cocoon</div>
-<div class="stat"><img src="/img/3.svg" alt="Butterfly">1 Butterfly</div>
+<div class="stat"><img src="/img/3.svg" alt="Butterfly">2 Butterflies</div>
 <div class="stat"><img src="/img/4.svg" alt="Death and Rebirth">2 Deaths and Rebirths</div>
 <div class="stat"><img src="/img/5.svg" alt="Forest Deer">9 Forest Deer</div>
 <div class="stat"><img src="/img/6.svg" alt="Wild Berries">1 Wild Berry</div>
