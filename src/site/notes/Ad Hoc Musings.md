@@ -1,5 +1,5 @@
 ---
-{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-22T23:29:32.486-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
+{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-23T00:03:24.685-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
 ---
 
 
@@ -105,6 +105,9 @@
 <img src="/img/5.svg" alt="" style="width:auto;height:25px">
 </a>
 <span class="tree plane}">
+<a class="caterpillar" href="/entities/moodboard/night-from-the-eyes-of-a-lover/" title="Moodboard: Night, from the eyes of a lover">
+<img src="/img/1.svg" alt="" style="width:auto;height:25px">
+</a>
 <span></span>
 </span>
 
@@ -142,7 +145,7 @@
 
 </div>
 <div class="forest-legends">
-<div class="stat"><img src="/img/1.svg" alt="Caterpillar">3 Caterpillars</div>
+<div class="stat"><img src="/img/1.svg" alt="Caterpillar">4 Caterpillars</div>
 <div class="stat"><img src="/img/2.svg" alt="Cocoon">2 Cocoon</div>
 <div class="stat"><img src="/img/3.svg" alt="Butterfly">2 Butterflies</div>
 <div class="stat"><img src="/img/4.svg" alt="Death and Rebirth">2 Deaths and Rebirths</div>
