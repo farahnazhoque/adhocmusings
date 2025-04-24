@@ -1,5 +1,5 @@
 ---
-{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-23T00:03:24.685-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
+{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-04-23T00:03:24.685-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
 ---
 
 
@@ -195,7 +195,7 @@ The Swan (![Maturity Level: satellite|14](https://adhocmusings.vercel.app/img/7.
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | ![coverimg\|100](https://m.media-amazon.com/images/I/81-i1L18p-L.jpg)                         | [[Personal/Reading/Books/Read/Lapvona\|Lapvona]]                                   | <ul><li>feminism</li><li>womanhood</li><li>tragedy</li><li>medieval</li><li>witchcraft</li><li>religious-trauma</li><li>fantasy</li></ul> |
 | ![coverimg\|100](https://upload.wikimedia.org/wikipedia/en/8/8d/The_Silence_of_the_Girls.jpg) | [[Personal/Reading/Books/Read/The Silence of the Girls\|The Silence of the Girls]] | <ul><li>greek-mythology</li><li>feminism</li><li>womanhood</li><li>tragedy</li></ul>                                                      |
-| ![coverimg\|100](https://m.media-amazon.com/images/I/81-i1L18p-L.jpg)                         | [[Personal/Reading/Books/Read/Kitchen\|Kitchen]]                                   | <ul><li>slice-of-life</li><li>loss</li><li>coming-of-age</li><li>melancholia</li><li>hope</li></ul>                                       |
+| ![coverimg\|100](https://m.media-amazon.com/images/I/71F85zXcMjL._AC_UF1000,1000_QL80_.jpg)   | [[Personal/Reading/Books/Read/Kitchen\|Kitchen]]                                   | <ul><li>slice-of-life</li><li>loss</li><li>coming-of-age</li><li>melancholia</li><li>hope</li></ul>                                       |
 
 { .block-language-dataview}
 ---
