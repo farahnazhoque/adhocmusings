@@ -1,5 +1,5 @@
 ---
-{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-05-01T16:37:40.585-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
+{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-05-09T23:51:09.746-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
 ---
 
 
@@ -49,6 +49,9 @@
 </a>
 <a class="cocoon" href="/musings/the-complexities-of-teenage-girls/" title="The Complexities of teenage girls">
 <img src="/img/2.svg" alt="" style="width:auto;height:35px">
+</a>
+<a class="death-and-rebirth" href="/musings/freedom/" title="Freedom">
+<img src="/img/4.svg" alt="" style="width:auto;height:35px">
 </a>
 </div>
 
@@ -151,7 +154,7 @@
 <div class="stat"><img src="/img/1.svg" alt="Caterpillar">4 Caterpillars</div>
 <div class="stat"><img src="/img/2.svg" alt="Cocoon">2 Cocoon</div>
 <div class="stat"><img src="/img/3.svg" alt="Butterfly">2 Butterflies</div>
-<div class="stat"><img src="/img/4.svg" alt="Death and Rebirth">2 Deaths and Rebirths</div>
+<div class="stat"><img src="/img/4.svg" alt="Death and Rebirth">3 Deaths and Rebirths</div>
 <div class="stat"><img src="/img/5.svg" alt="Forest Deer">10 Forest Deer</div>
 <div class="stat"><img src="/img/6.svg" alt="Wild Berries">1 Wild Berry</div>
 <div class="stat"><img src="/img/7.svg" alt="The Swan">5 The Swans</div>
@@ -209,6 +212,7 @@ The Swan (![Maturity Level: satellite|14](https://adhocmusings.vercel.app/img/7.
 | ![coverimg\|100](https://i.pinimg.com/736x/71/bf/45/71bf4573acdd0f1821a5c9fd3c3678c6.jpg) | [[Personal/Musings/On Personal Style\|On Personal Style]]                                 | April 09, 2025 | 1:44 PM - April 09, 2025 | <ul><li>personal-style</li><li>creation</li><li>curated</li><li>algorithm</li><li>fashion</li><li>inner-child</li></ul>      |
 | ![coverimg\|100](https://i.pinimg.com/736x/70/ec/7d/70ec7d2853230e259adfe1c9ecccca31.jpg) | [[Personal/Musings/Environment and Creation\|Environment and Creation]]                   | April 09, 2025 | 1:44 PM - April 09, 2025 | <ul><li>creation</li><li>inner-child</li><li>child-like-wonder</li><li>writing</li><li>creating</li><li>creativity</li></ul> |
 | ![coverimg\|100](https://i.pinimg.com/736x/3a/ef/ee/3aefee89f0fb9467169cd38e823a0f6b.jpg) | [[Personal/Musings/The complexities of teenage girls\|The complexities of teenage girls]] | April 18, 2025 | 1:43 PM - April 16, 2025 | <ul><li>girlhood</li><li>society</li><li>commentary</li><li>culture</li><li>high-school</li></ul>                            |
+| ![coverimg\|100](https://i.pinimg.com/736x/a9/7f/7a/a97f7a6c94fcc60d9014a8b3c34121dd.jpg) | [[Personal/Musings/Freedom\|Freedom]]                                                     | May 09, 2025   | 1:44 PM - May 09, 2025   | <ul><li>freedom</li><li>lifestyle</li><li>patriarchy</li><li>shame</li><li>guilt</li></ul>                                   |
 
 { .block-language-dataview}
 ---
