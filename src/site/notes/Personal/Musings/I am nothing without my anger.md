@@ -1,11 +1,11 @@
 ---
-{"title":"I am nothing without my anger","dg-publish":true,"updated":"2025-05-23T13:40:03.000-07:00","created":"2025-04-07T16:39:43.119-07:00","tags":null,"dg-note-icon":"caterpillar","dg-path":"Musings/I am nothing without my anger.md","permalink":"/musings/i-am-nothing-without-my-anger/","dgPassFrontmatter":true,"noteIcon":"caterpillar","cover":"https://i.pinimg.com/736x/f2/f2/d8/f2f2d80be6126d25b63cf66137661f02.jpg"}
+{"title":"I am nothing without my anger","dg-publish":true,"updated":"2025-05-23T13:59:11.024-07:00","created":"2025-04-07T16:39:43.119-07:00","tags":null,"dg-note-icon":"caterpillar","dg-path":"Musings/I am nothing without my anger.md","permalink":"/musings/i-am-nothing-without-my-anger/","dgPassFrontmatter":true,"noteIcon":"caterpillar","cover":"https://i.pinimg.com/736x/f2/f2/d8/f2f2d80be6126d25b63cf66137661f02.jpg"}
 ---
 
 ![Pasted image 20250523133736.png](/img/user/Assets/Pasted%20image%2020250523133736.png)
 How does one shift the narrative and turn their life around as they watch their life pass by? I always thought I would be the main character of my own story, but over the years, the light behind my eyes has faded, and my outstretched hands grow meeker for an ounce of luck that so many others have.
 
-During times such as those, I am always being asked to look at those below me, to learn gratitude. However, I see those who are the most ungrateful achieve things I can only dream of, oh so easily. So, where does that place me?
+During times such as those, I am always being asked to look at those who are suffering more than me, to learn and practice gratitude. However, I see those who are the most ungrateful achieve things I can only dream of, oh so easily too. So, where does that place me?
 
 Some argue I am being too greedy. However, why is it so frowned upon to ask and hope for a good life? Why am I being conditioned to believe that I am undeserving of a good life? Was I not created by the same Creator? Was I not made from the same clay as those who get everything? If my luck is the only thing setting me apart from those who have it all, then why am I held down and forced to bow to it and show gratitude to it?
 
