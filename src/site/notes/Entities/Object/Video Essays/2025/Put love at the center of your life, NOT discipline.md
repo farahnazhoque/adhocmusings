@@ -1,5 +1,5 @@
 ---
-{"title":"Put love at the center of your life, NOT discipline","aliases":["video-essay","lifestyle","love","depth","nature"],"type":"Object/Video Essays/2025","dg-publish":true,"dg-note-icon":"forest-deer","tags":["youtube","lifestyle"],"updated":"2025-05-26T00:19:40.405-07:00","created":"2025-05-26T00:17:02.893-07:00","dg-path":"Entities/Objects/Video Essays/2025/Put love at the center of your life, NOT discipline.md","permalink":"/entities/objects/video-essays/2025/put-love-at-the-center-of-your-life-not-discipline/","dgPassFrontmatter":true,"noteIcon":"forest-deer","link":"https://simimuhumuza.substack.com/p/its-the-time-trad-wives-skinny-culture"}
+{"title":"Put love at the center of your life, NOT discipline","aliases":["video-essay","lifestyle","love","depth","nature"],"type":"Object/Video Essays/2025","dg-publish":true,"dg-note-icon":"forest-deer","tags":["youtube","lifestyle"],"updated":"2025-05-26T00:20:19.190-07:00","created":"2025-05-26T00:17:02.893-07:00","dg-path":"Entities/Objects/Video Essays/2025/Put love at the center of your life, NOT discipline.md","permalink":"/entities/objects/video-essays/2025/put-love-at-the-center-of-your-life-not-discipline/","dgPassFrontmatter":true,"noteIcon":"forest-deer","link":"https://www.youtube.com/watch?v=AivF_Lj8cVM&t=1s"}
 ---
 
 ![](https://marianopascual.me/)

@@ -1,5 +1,5 @@
 ---
-{"title":"The People in the Tree","authors":["Hanya Yanagihara"],"genre":"social commentary","created":"2025-05-09T23:51:55.877-07:00","updated":"2025-05-25T23:54:08.841-07:00","tags":["notes"],"dg-publish":true,"dg-note-icon":"cocoon","dg-path":"Reading/Notes and Highlights/Books/The People in the Trees.md","permalink":"/reading/notes-and-highlights/books/the-people-in-the-trees/","dgPassFrontmatter":true,"noteIcon":"cocoon"}
+{"title":"The People in the Tree","authors":["Hanya Yanagihara"],"genre":"social commentary","created":"2025-05-09T23:51:55.877-07:00","updated":"2025-05-26T00:08:48.315-07:00","tags":["notes"],"dg-publish":true,"dg-note-icon":"cocoon","dg-path":"Reading/Notes and Highlights/Books/The People in the Trees.md","permalink":"/reading/notes-and-highlights/books/the-people-in-the-trees/","dgPassFrontmatter":true,"noteIcon":"cocoon"}
 ---
 
 ## Notes and rambles:
