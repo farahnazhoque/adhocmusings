@@ -1,9 +1,10 @@
 ---
-{"title":"Put love at the center of your life, NOT discipline","aliases":["video-essay","lifestyle","love","depth","nature"],"type":"Object/Video Essays/2025","dg-publish":true,"dg-note-icon":"forest-deer","tags":["youtube","lifestyle"],"updated":"2025-05-26T00:20:19.190-07:00","created":"2025-05-26T00:17:02.893-07:00","dg-path":"Entities/Objects/Video Essays/2025/Put love at the center of your life, NOT discipline.md","permalink":"/entities/objects/video-essays/2025/put-love-at-the-center-of-your-life-not-discipline/","dgPassFrontmatter":true,"noteIcon":"forest-deer","link":"https://www.youtube.com/watch?v=AivF_Lj8cVM&t=1s"}
+{"title":"Put love at the center of your life, NOT discipline","aliases":["video-essay","lifestyle","love","depth","nature"],"type":"Object/Video Essays/2025","dg-publish":true,"dg-note-icon":"forest-deer","tags":["youtube","lifestyle"],"updated":"2025-05-26T00:28:23.348-07:00","created":"2025-05-26T00:17:02.893-07:00","dg-path":"Entities/Objects/Video Essays/2025/Put love at the center of your life, NOT discipline.md","permalink":"/entities/objects/video-essays/2025/put-love-at-the-center-of-your-life-not-discipline/","dgPassFrontmatter":true,"noteIcon":"forest-deer","link":"https://www.youtube.com/watch?v=AivF_Lj8cVM&t=1s"}
 ---
 
 ![](https://marianopascual.me/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AivF_Lj8cVM?si=nbnyfku8BCPBtV91" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Summary
 The video advocates for prioritizing **love over discipline** in personal growth.
 
