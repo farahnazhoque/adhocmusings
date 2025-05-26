@@ -2,7 +2,7 @@
 {"title":"The complexities of teenage girls","dg-publish":true,"updated":"2025-04-18T11:15:45.922-07:00","created":"2025-04-16T17:29:04.465-07:00","tags":["girlhood","society","commentary","culture","high-school"],"dg-note-icon":"cocoon","dg-path":"Musings/The complexities of teenage girls.md","permalink":"/musings/the-complexities-of-teenage-girls/","dgPassFrontmatter":true,"noteIcon":"cocoon","cover":"https://i.pinimg.com/736x/3a/ef/ee/3aefee89f0fb9467169cd38e823a0f6b.jpg"}
 ---
 
-![Pasted image 20250416173328.png](/img/user/Assets/Pasted%20image%2020250416173328.png)
+![[Pasted image 20250416173328.png]]
 Yellowjackets, being a girl
 
 I recently concluded watching Yellowjackets (at least all the released seasons), and it really took me back to what it was like being a girl in a makeshift small town, where hierarchies and roles had been set out for us as soon as we had turned twelve.

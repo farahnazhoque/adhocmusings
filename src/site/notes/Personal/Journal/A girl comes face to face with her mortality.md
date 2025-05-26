@@ -6,7 +6,7 @@ I have mused about death a lot. I was no stranger to it, as I too am mortal. I h
 
 To me, death was anticlimactic. It is just a condition of life. (!!SPOILER ALERT FOR YELLOWJACKETS SEASON 2!!) Yet, today, as I was listening to ["Street Spirit (Fade Out)" by Radiohead](https://www.youtube.com/watch?v=LCJblaUkkfc), and I kept replaying the scene of how Natalie was sitting on the plane with her younger self, and the juxtaposition of how she was the one who saved them all in the end from the wilderness, only to die in a moment where she was finally feeling recovering or at least trying to, really made me wonder, what is life all about?
 
-![Pasted image 20250419131109.png](/img/user/Assets/Pasted%20image%2020250419131109.png)
+![[Pasted image 20250419131109.png]]
 
 If I were to stare at my corpse in the eye, how will I find her? Will she die of old age? Or. a freak accident? And to think there are years in the calendar where my existence does not even persist—what even is life? If I were to drop dead along the way, in which stage am I dying? The average human being passes away of old age, but how many of them have any meaning attached to their life or their death? Will my death have any value or will others be relieved of my passing? Why do I even care about others? But I should, right?
 
@@ -20,6 +20,6 @@ But in the end, I am again left to wonder, and stay put in this extremely uncomf
 
 When I imagined my lifeless form, I did not imagine my current self; I imagined someone older. But it all changes when I imagine someone closer to my age. It means I might end up six feet under before I even become the great I wish to be. Definitely not giving up on that pursuit, but also reminding myself that the pursuit is not one defined state; it can be multiple, and might even look vastly different for me in my 30s than it does now in my 20s. So, all I really do have right now is my current self, my current tools and circumstances, and I try to produce happiness from them, instead of treating today as just a stepping stone for a tomorrow that perhaps does not even exist. 
 
-![Pasted image 20250419144934.png](/img/user/Assets/Pasted%20image%2020250419144934.png)
+![[Pasted image 20250419144934.png]]
 
 So today, I am letting go of that control I so craved for a certain future. I will try now to make happiness, weave it from within me instead of trying to collect scraps of threads from companies and wealth that have inadvertently forced me to be unkind to myself and to the world around me, treating everyone and everything as competition. The only thing I can control is the love I give from within me, in hopes it reaches someone and myself. Community, knowledge, kindness—I have shoved those way too far; so now I am in pursuit of the love I have shunned for way too long.

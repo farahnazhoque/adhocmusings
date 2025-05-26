@@ -2,7 +2,7 @@
 {"title":"Night routine for a self-disciplined baddie with neurodivergence","mood":"learning","weather":"sunny","location":"Irvine, CA","dg-publish":true,"dg-note-icon":"the-swan","tags":["growth","learning","mental-health","lifestyle","routine"],"updated":"2025-05-12T16:51:50.100-07:00","created":"2025-05-12T16:26:49.054-07:00","dg-path":"Lists/Night routine for a self-disciplined baddie with neurodivergence.md","permalink":"/lists/night-routine-for-a-self-disciplined-baddie-with-neurodivergence/","dgPassFrontmatter":true,"noteIcon":"the-swan"}
 ---
 
-![Pasted image 20250512164844.png](/img/user/Assets/Pasted%20image%2020250512164844.png)
+![[Pasted image 20250512164844.png]]
 As mentioned in my [Learning self-discipline](/journal/learning-self-discipline/ "Learning self-discipline"), routines are extremely important but I have a hard time establishing it due to my mind, be it my ADHD, depression, or the lack of earth placements in my chart. So, this is my attempt to creating a routine that is  underwhelming yet rewarding. It will have sensory acts that will bring me back to my body and engage with it.
 
 I think one's day starts the night before, so, definitely having a good night routine will set up the mood for the rest of the day.
