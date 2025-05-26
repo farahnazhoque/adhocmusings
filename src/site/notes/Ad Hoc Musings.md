@@ -1,5 +1,5 @@
 ---
-{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-05-26T00:21:05.907-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
+{"title":"The Forest","dg-home":true,"dg-publish":true,"dg-note-icon":"the-swan","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons","floating-toolbar","forest-graph","forest-legends"],"created":"2025-03-30T02:44:40.127-07:00","updated":"2025-05-26T00:27:40.326-07:00","permalink":"/ad-hoc-musings/","hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons floating-toolbar forest-graph","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"the-swan"}
 ---
 
 
@@ -179,7 +179,7 @@
 <div class="stat"><img src="/img/2.svg" alt="Cocoon">4 Cocoons</div>
 <div class="stat"><img src="/img/3.svg" alt="Butterfly">2 Butterflies</div>
 <div class="stat"><img src="/img/4.svg" alt="Death and Rebirth">4 Deaths and Rebirths</div>
-<div class="stat"><img src="/img/5.svg" alt="Forest Deer">11 Forest Deer</div>
+<div class="stat"><img src="/img/5.svg" alt="Forest Deer">12 Forest Deer</div>
 <div class="stat"><img src="/img/6.svg" alt="Wild Berries">1 Wild Berry</div>
 <div class="stat"><img src="/img/7.svg" alt="The Swan">8 The Swans</div>
 </div>
